@@ -1,0 +1,2497 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//School Lunch Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Orion Jr High Lunch
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lunch-2026-08-24-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree:\n- Hawaiian Haystacks (2g carbs\, 1/2 Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Blueberry Parfa
+ it (69g carbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n
+ - Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Sal
+ ad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each
+ )\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g c
+ arbs\, Chef Salad)\nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Sti
+ ck\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 eac
+ h)\n- Chow Mein Noodles (9g carbs\, 1/4  Cup)\n- Chips\, Lay's Sour Cream 
+ and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20
+ g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carb
+ s\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Gr
+ een Peas (11g carbs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce
+ \, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)
+ \n- Tomato\, Fresh (4g carbs\, 1/2 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cu
+ p Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, 
+ Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Pineapple Tidbits (15g car
+ bs\, 1/2 Cup Serving)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Apples\, 
+ fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package
+ )\nDessert:\n- Ice Cream Cup\, Chocolate (17g carbs\, 1 Container)\n- Ice 
+ Cream Cup\, Strawberry (16g carbs\, 1 Container)\n- Ice Cream Cup\, Vanill
+ a (16g carbs\, 1 Container)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\
+ n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tapioca (20g carb
+ s\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nDairy and Egg Produ
+ cts:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-25-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree:\n- Crisp Taco (13g carbs\, 1 each)\n- Chicken Nugg
+ ets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter (
+ 64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64
+ g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n
+ - Strawberry/Banana Parfait (92g carbs\, Each)\n- Blueberry Parfait (69g c
+ arbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Chili C
+ on Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g c
+ arbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berr
+ y Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Ch
+ ef Salad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sou
+ r Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular 
+ (15g carbs\, 1 package (1 oz))\n- Cinnamon Churro (44g carbs\, 2 Each)\n- 
+ Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, W
+ edges (38g carbs\, 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- Sugar
+  Snap Peas (2g carbs\, 1/2  Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cu
+ p)\n- Tomato\, Fresh (1g carbs\, 1/8 cup diced)\n- Baby Carrots (6g carbs\
+ , 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g 
+ carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Containe
+ r)\n- Watermelon\, fresh (6g carbs\, .5 cup)\n- Apples\, fresh (14g carbs\
+ , Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fre
+ sh (23g carbs\, 1 whole)\nDairy and Egg Products:\n- Cheese Blend (2g carb
+ s\, 1 oz)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\
+ n- Chocolate Chip Cookie (18g carbs\, 1 each)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-26-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree:\n- Corn Dog (34g carbs\, Each)\n- Popcorn Chicken 
+ (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g c
+ arbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g car
+ bs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Str
+ awberry/Banana Parfait (92g carbs\, Each)\n- Blueberry Parfait (69g carbs\
+ , Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Peach Parfai
+ t (85g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)
+ \n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sal
+ ad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each
+ )\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Jalapeno & Cheddar Ket
+ tle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\
+ , 1 bag)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17g carbs\, 1 Pa
+ ckage)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2o
+ z (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 
+ 1 package (1 oz))\nVegetables:\n- Baked Beans (32g carbs\, 1/2 Cup)\n- Bro
+ ccoli Florets\, raw (5g carbs\, 1/2 Cup)\n- Side Salad - Elem Romaine (1g 
+ carbs\, 1/2  Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (
+ 6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bak
+ ers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandari
+ n Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- S
+ liced Apples\, package (7g carbs\, 1 Package)\n- Orange\, fresh (13g carbs
+ \, 1 whole)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy
+  and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-27-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Lunch: Chicken Alfredo
+DESCRIPTION:Main Entree:\n- Chicken Alfredo (6g carbs\, 3/4 cup serving)\n-
+  Chicken Tenders (15g carbs\, 4 Tenders)\n- Chicken Nuggets (11g carbs\, 5
+  pieces)\n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each
+ )\n- Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\
+ n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry/Banan
+ a Parfait (92g carbs\, Each)\n- Blueberry Parfait (69g carbs\, Each)\n- Pe
+ ach Parfait (85g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\
+ , 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy C
+ hicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carb
+ s\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Penne Pasta 
+ (27g carbs\, 1 Cup)\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chi
+ ps\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 
+ 2oz (28g carbs\, 1 each)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (
+ 17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Cheetos
+  Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (43g car
+ bs\, 1 Cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Celery (1g carbs\, 1/2
+  Cup)\n- Side Salad - Elem Romaine (1g carbs\, 1/2  Cup)\n- Grape Tomatoes
+  (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Pota
+ to\, Bakers (21g carbs\, Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2 C
+ up)\nFruit:\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\n
+ - Grapes\, Green (17g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Whol
+ e)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nSides:\n- Cheese Sti
+ ck\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g c
+ arbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-28-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry/Banana Parfait
+  (92g carbs\, Each)\n- Blueberry Parfait (69g carbs\, Each)\n- Peach Parfa
+ it (85g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup
+ )\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sa
+ lad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 eac
+ h)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (2
+ 9g carbs\, Breadsticks)\n- Chips\, Doritos Nacho Cheese (20g carbs\, 1 pac
+ kage (1 oz))\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package 
+ (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carb
+ s\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 o
+ z))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend Veg
+ etables (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 Cup 
+ Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips 
+ (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g
+  carbs\, Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\,
+  Harvest Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\, package 
+ (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- Orange\, f
+ resh (13g carbs\, 1 whole)\nDessert:\n- Tuxedo Cookie (18g carbs\, Each)\n
+ - Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Mar
+ bled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carb
+ s\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-31-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree:\n- Mandarin Orange Chicken (19g carbs\, 1/2 Cup)\n
+ - Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Blueberry
+  Parfait (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3
+ /4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chic
+ ken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\,
+  1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Brown Rice (48g
+  carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- R
+ olls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g
+  carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 pa
+ ckage (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package 
+ (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Broccoli Normand
+ y (3g carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\, Shre
+ dded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Bab
+ y Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- P
+ otato\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n
+ - Tropical Fruit Salad\, Dole (22g carbs\, 1/2  Cup Serving)\n- Strawberri
+ es\, fresh (8g carbs\, 1/2  Cup)\n- Apples\, fresh (7g carbs\, 1/2 each)\n
+ - Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g ca
+ rbs\, 1 whole)\nDessert:\n- Fortune Cookie (4g carbs\, 1 cookie)\n- Chocol
+ ate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1
+  each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g
+  carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz
+ )
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-01-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Lunch: Chili Cheese Fries
+DESCRIPTION:Main Entree:\n- Chili Cheese Fries (70g carbs\, Serving)\n- Chi
+ cken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Blueberry Parfa
+ it (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup
+ )\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sa
+ lad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 eac
+ h)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Rolls\, 2oz (28g carb
+ s\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (
+ 1 oz))\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay'
+ s Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedges (3
+ 8g carbs\, 1 cup)\n- Sunshine Carrot Mix (6g carbs\, 1/2  Cup Serving)\n- 
+ Sugar Snap Peas (2g carbs\, 1/2  Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup 
+ Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Ea
+ ch)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Hone
+ ydew Melon (10g carbs\, 1/2  Cup)\n- Apples\, fresh (14g carbs\, Whole)\n-
+  Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g car
+ bs\, 1 whole)\nDessert:\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pud
+ ding\, Vanilla (23g carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 
+ 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy and E
+ gg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-02-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Lunch: French Toast Sticks
+DESCRIPTION:Main Entree:\n- French Toast Sticks (38g carbs\, 3.3 oz)\n- Pop
+ corn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut 
+ Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, San
+ dwich)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Blueberry Par
+ fait (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 C
+ up)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken 
+ Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 e
+ ach)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Egg\, hard boiled (
+ 1g carbs\, Whole)\n- Pork Sausage Links (0g carbs\, 2 links)\n- Cheese Sti
+ ck\, Marbled (1g carbs\, 1 each)\n- Jalapeno & Cheddar Kettle Lays (26g ca
+ rbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag)\nGrain:
+ \n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, D
+ oritos Nacho Cheese (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spic
+ y Sweet Chili (20g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cream a
+ nd Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each
+ )\nVegetables:\n- Hashbrown\, Triangle Patty (24g carbs\, 2 Patties)\n- Gr
+ een Peas (11g carbs\, 1/2 Cup)\n- Baked Beans (32g carbs\, 1/2 Cup)\n- Sid
+ e Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\,
+  1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs
+ \, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 
+ 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fre
+ sh (7g carbs\, 1/2 each)\n- Sliced Apples\, package (7g carbs\, 1 Package)
+ \n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- Chocolate Chip Cooki
+ e (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\
+ , 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-03-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Lunch: Breaded Chicken Drumsticks
+DESCRIPTION:Main Entree:\n- Breaded Chicken Drumsticks (11g carbs\, 1 each)
+ \n- Chicken Tenders (9g carbs\, 2 Tenders)\n- Uncrustables\, Large Grape &
+  Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & P
+ eanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g car
+ bs\, Sandwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Blueberr
+ y Parfait (69g carbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, 
+ Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chic
+ ken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\,
+  1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad
+  (12g carbs\, Chef Salad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- C
+ hips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\
+ , Ruffles Cheddar & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Ch
+ eetos (18g carbs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nV
+ egetables:\n- 50/50 Fries\, Sec (43g carbs\, 1 Cup)\n- Mashed Potatoes (48
+ g carbs\, 1/2  Cup Serving)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n
+ - Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\
+ , Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 
+ 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n- Broccoli Florets
+ \, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce cup\, Mango Peach (15g c
+ arbs\, 1 Container)\n- Orange\, fresh (13g carbs\, 1 whole)\n- Apples\, fr
+ esh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\
+ n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\nSoups\, Sauc
+ es\, and Gravies:\n- Gravy\, Chicken (1g carbs\, 1/2  Cup)\nSides:\n- Chee
+ se Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie 
+ (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 
+ 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-04-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry/Banana Parfait
+  (92g carbs\, Each)\n- Blueberry Parfait (69g carbs\, Each)\n- Chili Con C
+ arne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs
+ \, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gr
+ illed Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef S
+ alad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips\, L
+ ay's Regular (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cream an
+ d Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)
+ \n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\nVegetables:\n- Fries
+ \, Waffle (41g carbs\, 1 cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Baby
+  Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\, Shredded (0g carbs\, 1/
+ 4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2
+  Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/
+ 2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit (19g carbs\, 1 Container
+ )\n- Craisins\, Cherry (27g carbs\, Package)\n- Honeydew Melon (10g carbs\
+ , 1/2  Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, packa
+ ge (7g carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert
+ :\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, 
+ Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g c
+ arbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-08-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Lunch: Fiesta Crunch Bowl\, Secondary
+DESCRIPTION:Main Entree:\n- Fiesta Crunch Bowl\, Secondary (11g carbs\, 1/2
+  Cup Serving)\n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, 
+ Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large S
+ trawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: F
+ Trip (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\
+ n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS 
+ (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spi
+ cy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Sala
+ d (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- B
+ rown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each
+ )\nGrain:\n- Chips\, Tostitos Scoops (19g carbs\, 1 Package)\n- Chips\, La
+ y's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28
+ g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- C
+ hips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\
+ , Wedges (38g carbs\, 1 cup)\n- Beans\, Black (23g carbs\, 1/2 Cup)\n- Cor
+ n\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Onion (5g carbs\, 1/4  Cup)\n- C
+ ilantro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)
+ \n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- J
+ icama (6g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs
+ \, 1 Container)\n- Watermelon\, fresh (6g carbs\, .5 cup)\n- Lime Slices (
+ 2g carbs\, 1/4 Lime)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apple
+ s\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g carbs\, 1 whole)
+ \nDessert:\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Vanill
+ a (23g carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDair
+ y and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-09-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Lunch: Bacon Cheeseburger\, Secondary
+DESCRIPTION:Main Entree:\n- Bacon Cheeseburger\, Secondary (31g carbs\, 1 e
+ ach)\n- Popcorn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grap
+ e & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry 
+ & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g 
+ carbs\, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawbe
+ rry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs
+ \, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy 
+ Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g car
+ bs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Chips\, Lay
+ 's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\
+ , 1 package (1 oz))\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 p
+ ackage (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\nVegetables:\n- Sunshin
+ e Carrot Mix (6g carbs\, 1/2  Cup Serving)\n- Side Salad - Secondary Romai
+ ne (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Lettuce\, Sh
+ redded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- B
+ aby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n-
+  Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFrui
+ t:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\
+ , Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, fre
+ sh (13g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 e
+ ach)\n- Jalapeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & V
+ inegar Kettle Lays (28g carbs\, 1 bag)\nDessert:\n- Chocolate Chip Cookie 
+ (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 
+ 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-10-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree:\n- Cheese Tortellini (29g carbs\, 8 pieces)\n- Bee
+ f Rosa Sauce (8g carbs\, 1/2  Cup)\n- Chicken Tenders (9g carbs\, 2 Tender
+ s)\n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- U
+ ncrustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham
+  & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfai
+ t (83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Blueberr
+ y Parfait (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 
+ 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chi
+ cken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\
+ , 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadst
+ icks (29g carbs\, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g 
+ carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, R
+ uffles Cheddar & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheet
+ os (18g carbs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVege
+ tables:\n- 50/50 Fries\, Sec (43g carbs\, 1 Cup)\n- Green Beans (4g carbs\
+ , 1/2  Cup)\n- Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romai
+ ne (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots
+  (6g carbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n- Bro
+ ccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce Cup\, Straw
+ berry (14g carbs\, 1 Container)\n- Grapes\, Green (17g carbs\, 1/2 Cup)\n-
+  Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\,
+  1 Package)\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\n
+ Sides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolat
+ e Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blen
+ d (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-11-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (
+ 83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con C
+ arne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs
+ \, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gr
+ illed Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef S
+ alad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips\, L
+ ay's Regular (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cream an
+ d Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)
+ \n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\nVegetables:\n- Fries
+ \, Waffle (41g carbs\, 1 cup)\n- Garden Blend Vegetables (5g carbs\, 1/2  
+ Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\, Shr
+ edded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Ce
+ lery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Baked B
+ eans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit (19g
+  carbs\, 1 Container)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n-
+  Apples\, fresh (14g carbs\, Whole)\n- Orange\, fresh (13g carbs\, 1 whole
+ )\nDessert:\n- S'mores Cookie Bar (24g carbs\, 1 each)\n- Chocolate Chip C
+ ookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1
+  each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-14-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree:\n- Teriyaki Chicken (10g carbs\, 1/2  Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry Parfai
+ t (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup
+ )\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sa
+ lad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 eac
+ h)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Brown Rice (48g carbs
+ \, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\,
+  2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs
+ \, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package 
+ (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (1 oz)
+ )\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Broccoli Normandy (3g 
+ carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\, Shredded (
+ 0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby Carr
+ ots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\
+ , Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Trop
+ ical Fruit Salad\, Dole (22g carbs\, 1/2  Cup Serving)\n- Strawberries\, f
+ resh (8g carbs\, 1/2  Cup)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Slic
+ ed Apples\, package (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, 
+ Whole)\nDessert:\n- Fortune Cookie (4g carbs\, 1 cookie)\n- Chocolate Chip
+  Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n
+ - Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\,
+  1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-15-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Lunch: Street Taco
+DESCRIPTION:Main Entree:\n- Street Taco (30g carbs\, 2 Each)\n- Chicken Nug
+ gets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter 
+ (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\
+ n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Cinnamon Churro (22g carbs\, 
+ 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz
+ ))\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Re
+ gular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedges (38g c
+ arbs\, 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- Sugar Snap Peas (
+ 2g carbs\, 1/2  Cup)\n- Onion (9g carbs\, 1 Ounce)\n- Cilantro (0g carbs\,
+  2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carb
+ s\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFruit:\n- Fruit Cup\, 
+ Diced Peaches (18g carbs\, 1 Container)\n- Watermelon\, fresh (6g carbs\, 
+ .5 cup)\n- Lime Slices (7g carbs\, 1 fruit (2" dia))\n- Sliced Apples\, pa
+ ckage (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- Bana
+ na\, Fresh (23g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled (1g car
+ bs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDair
+ y and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-16-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree:\n- Grilled Cheese Sandwich (33g carbs\, 1 each)\n-
+  Spicy Grilled Cheese Sandwich (32g carbs\, 1 each)\n- Popcorn Chicken (23
+ g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g carb
+ s\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\
+ , 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peache
+ s & Cream Parfait (83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, E
+ ach)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chick
+ en Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 
+ 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad 
+ (12g carbs\, Chef Salad)\nSides:\n- Soup\, Tomato (40g carbs\, 1 Cup)\n- C
+ heese Stick\, Marbled (1g carbs\, 1 each)\n- Jalapeno & Cheddar Kettle Lay
+ s (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag
+ )\nGrain:\n- Crackers\, Cheezits (14g carbs\, 1 Package)\n- Crackers\, Spi
+ cy Buffalo Cheezit's (14g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\,
+  1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\n- Rolls\, 2oz (28g 
+ carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\nVegetables:\n- Green Peas (11g carbs\, 1/2 Cup)\n- Side Salad 
+ - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup
+ )\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 C
+ up)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)
+ \nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g 
+ carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange
+ \, fresh (13g carbs\, 1 whole)\nDessert:\n- Chocolate Chip Cookie (18g car
+ bs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-17-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Lunch: Mac and Cheese
+DESCRIPTION:Main Entree:\n- Mac and Cheese (31g carbs\, 1 cup)\n- Fish Stic
+ ks (21g carbs\, 4 pieces)\n- Chicken Tenders (15g carbs\, 4 Tenders)\n- Un
+ crustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustab
+ les\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Chees
+ e Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (83g c
+ arbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne 
+ & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Se
+ rving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled
+  Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)
+ \nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream a
+ nd Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Cheddar & Sour 
+ Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Pack
+ age)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries
+ \, Sec (43g carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n-
+  Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\,
+  Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Jicama (6g carbs\, 1/2 Cup
+ )\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g car
+ bs\, Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Apple
+ sauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\n- Orange\, fresh (13
+ g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\
+ , package (7g carbs\, 1 Package)\nSides:\n- Cheese Stick\, Marbled (1g car
+ bs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDair
+ y and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-18-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (
+ 83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con C
+ arne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs
+ \, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gr
+ illed Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef S
+ alad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips\, L
+ ay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (2
+ 8g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- 
+ Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries
+ \, Waffle (41g carbs\, 1 cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Baby
+  Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\, Shredded (0g carbs\, 1/
+ 4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2
+  Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/
+ 2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit (19g carbs\, 1 Container
+ )\n- Craisins\, Cherry (27g carbs\, Package)\n- Apples\, fresh (14g carbs\
+ , Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, fre
+ sh (13g carbs\, 1 whole)\nDessert:\n- Tuxedo Cookie (18g carbs\, Each)\n- 
+ Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbl
+ ed (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\
+ , 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-21-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Lunch: General Tso's Chicken
+DESCRIPTION:Main Entree:\n- General Tso's Chicken (22g carbs\, 1/2  Cup)\n-
+  Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & P
+ eanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pea
+ nut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs
+ \, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry P
+ arfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/
+ 4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chick
+ en Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 
+ 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Brown Rice (48g 
+ carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Ro
+ lls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g 
+ carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 pac
+ kage (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Green Peas (11g c
+ arbs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\, Shredded (0g
+  carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby Carrot
+ s (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, 
+ Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Pineap
+ ple Tidbits (15g carbs\, 1/2 Cup Serving)\n- Banana\, Fresh (23g carbs\, 1
+  whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Apples\, fres
+ h (14g carbs\, Whole)\nDessert:\n- Ice Cream Bar\, Vanilla Crunch (17g car
+ bs\, 1 each)\n- Ice Cream Bar\, Orange Dream (20g carbs\, 1 each)\n- Choco
+ late Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 
+ 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23
+ g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 o
+ z)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-22-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Lunch: Super Nachos\, Secondary
+DESCRIPTION:Main Entree:\n- Super Nachos\, Secondary (35g carbs\, 1/2 Cup)\
+ n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry 
+ Parfait (106g carbs\, Each)\n- Banana Parfait (97g carbs\, Each)\n- Bluebe
+ rry Parfait (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\
+ , 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy C
+ hicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carb
+ s\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Rolls\, 2oz 
+ (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 
+ package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chi
+ ps\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, 
+ Wedges (38g carbs\, 1 cup)\n- Beans\, Black (23g carbs\, 1/2 Cup)\n- Corn\
+ , Whole Kernel (16g carbs\, 1/2 Cup)\n- Onion (5g carbs\, 1/4  Cup)\n- Cil
+ antro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n
+ - Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFruit
+ :\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Watermelon\, f
+ resh (6g carbs\, .5 cup)\n- Orange\, fresh (13g carbs\, 1 whole)\n- Apples
+ \, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Pack
+ age)\n- Banana\, Fresh (23g carbs\, 1 whole)\nDessert:\n- Pudding\, Chocol
+ ate (23g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\n- Choc
+ olate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (
+ 1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 
+ oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-23-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree:\n- Hot Dog Wrap (31g carbs\, Each)\n- Popcorn Chic
+ ken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g
+  carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n-
+  Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry Parfait (106g ca
+ rbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Blueberr
+ y Parfait (69g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 
+ 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chi
+ cken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\
+ , 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Jalapeno & Che
+ ddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28
+ g carbs\, 1 bag)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17g carb
+ s\, 1 Package)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Ro
+ lls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g 
+ carbs\, 1 package (1 oz))\nVegetables:\n- Baked Beans (32g carbs\, 1/2 Cup
+ )\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g
+  carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (
+ 1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g 
+ carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Appl
+ es\, fresh (7g carbs\, 1/2 each)\n- Orange\, fresh (13g carbs\, 1 whole)\n
+ - Sliced Apples\, package (7g carbs\, 1 Package)\nDessert:\n- Chocolate Ch
+ ip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2
+ g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-24-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Lunch: Triple Decker Hoagie\, Secondary
+DESCRIPTION:Main Entree:\n- Triple Decker Hoagie\, Secondary (30g carbs\, S
+ andwich)\n- Chicken Tenders (15g carbs\, 4 Tenders)\n- Uncrustables\, Larg
+ e Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Straw
+ berry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip
+  (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- S
+ trawberry Parfait (106g carbs\, Each)\n- Blueberry Parfait (69g carbs\, Ea
+ ch)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Chili Con Carne 
+ & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Se
+ rving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled
+  Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)
+ \nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Baked Cheetos (18g carbs\,
+  1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\n- Chips\, Lay's Sou
+ r Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Chedda
+ r & Sour Cream (Baked) (17g carbs\, 1 Package)\nVegetables:\n- 50/50 Fries
+ \, Sec (43g carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n-
+  Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\,
+  Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Lettuce\, Shredded (0g car
+ bs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby Carrots (6
+ g carbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n- Brocco
+ li Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce cup\, Mango Pe
+ ach (15g carbs\, 1 Container)\n- Grapes\, Green (17g carbs\, 1/2 Cup)\n- A
+ pples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1
+  Package)\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\nSi
+ des:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate 
+ Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend 
+ (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-25-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfait (
+ 83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Blueberry P
+ arfait (69g carbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Eac
+ h)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken
+  Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 
+ each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (1
+ 2g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsti
+ cks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\
+ n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 pa
+ ckage (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVeg
+ etables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend Vegetables 
+ (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)
+ \n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carb
+ s\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\,
+  Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Harvest
+  Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\, package (7g carb
+ s\, 1 Package)\n- Craisins\, Strawberry (27g carbs\, Ounces)\n- Apples\, f
+ resh (14g carbs\, Whole)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:
+ \n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, M
+ arbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g ca
+ rbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-28-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Lunch: Sweet & Sour Chicken
+DESCRIPTION:Main Entree:\n- Sweet & Sour Chicken (19g carbs\, 1/2 Cup)\n- C
+ hicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Pea
+ nut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanu
+ t Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\,
+  Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Strawberry Par
+ fait (106g carbs\, Each)\n- Blueberry Parfait (69g carbs\, Each)\n- Bluebe
+ rry/Strawberry Parfait (83g carbs\, Each)\n- Chili Con Carne & Beans\, HS 
+ (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spi
+ cy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Sala
+ d (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- B
+ rown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each
+ )\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Baked Cheetos (18g carbs\
+ , 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\n- Chips\, Lay's So
+ ur Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool 
+ Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili 
+ (20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 c
+ up)\n- Broccoli Normandy (3g carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2
+  Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g
+  carbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1
+ g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g car
+ bs\, 1/2 Cup)\nFruit:\n- Tropical Fruit Salad\, Dole (22g carbs\, 1/2  Cup
+  Serving)\n- Strawberries\, fresh (8g carbs\, 1/2  Cup)\n- Apples\, fresh 
+ (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- B
+ anana\, Fresh (23g carbs\, 1 whole)\nDessert:\n- Fortune Cookie (4g carbs\
+ , 1 cookie)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Cho
+ colate (23g carbs\, 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- P
+ udding\, Vanilla (23g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese B
+ lend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-29-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Lunch: Nacho Fries\, Secondary
+DESCRIPTION:Main Entree:\n- Nacho Fries\, Secondary (59g carbs\, 1  Cup Ser
+ ving)\n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Gr
+ ape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberr
+ y & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30
+ g carbs\, Sandwich)\n- Peaches & Cream Parfait (83g carbs\, Each)\n- Straw
+ berry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g car
+ bs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crisp
+ y Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g c
+ arbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Cinnamon 
+ Twist (40g carbs\, Each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\
+ , 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's B
+ BQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 
+ package (1 oz))\nVegetables:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Bean
+ s\, Refried (24g carbs\, .5 Cup)\n- Sugar Snap Peas (2g carbs\, 1/2  Cup)\
+ n- Onion (5g carbs\, 1/4  Cup)\n- Cilantro (0g carbs\, 2 Sprigs)\n- Baby C
+ arrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Pota
+ to\, Bakers (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g c
+ arbs\, 1 Container)\n- Honeydew Melon (10g carbs\, 1/2  Cup)\n- Apples\, f
+ resh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)
+ \n- Banana\, Fresh (23g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled
+  (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 eac
+ h)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-30-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Lunch: Breakfast Sandwich
+DESCRIPTION:Main Entree:\n- Breakfast Sandwich (21g carbs\, 1 each)\n- Popc
+ orn Chicken (23g carbs\, Serving)\n- Chicken Sandwich (42g carbs\, Sandwic
+ h)\n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- U
+ ncrustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham
+  & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Peaches & Cream Parfai
+ t (83g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Co
+ n Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g ca
+ rbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry
+  Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Che
+ f Salad)\nGrain:\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (1 o
+ z))\n- Chips\, Doritos Nacho Cheese (20g carbs\, 1 package (1 oz))\n- Chip
+ s\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (1 oz))\n- Chips\, La
+ y's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28
+ g carbs\, 1 each)\nVegetables:\n- Hashbrown\, Triangle Patty (24g carbs\, 
+ 2 Patties)\n- Green Peas (11g carbs\, 1/2 Cup)\n- Side Salad - Secondary R
+ omaine (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Lettuce\
+ , Shredded (2g carbs\, 1 Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- 
+ Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n
+ - Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFru
+ it:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (7g carbs\
+ , 1/2 each)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, 
+ fresh (13g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 
+ 1 each)\n- Jalapeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt 
+ & Vinegar Kettle Lays (28g carbs\, 1 bag)\nDessert:\n- Chocolate Chip Cook
+ ie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs
+ \, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-01-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Lunch: Loaded BBQ Tots
+DESCRIPTION:Main Entree:\n- Loaded BBQ Tots (42g carbs\, 1 each)\n- Chicken
+  Tenders (15g carbs\, 4 Tenders)\n- Uncrustables\, Large Grape & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butt
+ er (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandw
+ ich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry Parfait (1
+ 06g carbs\, Each)\n- Peach Parfait (85g carbs\, Each)\n- Chili Con Carne &
+  Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Ser
+ ving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled 
+ Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\
+ nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Doritos Nacho Chees
+ e (20g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cream and Onion (15
+ g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Cheddar & Sour Cream (Baked
+ ) (17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Chee
+ tos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (43g 
+ carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Celery (1g 
+ carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Gra
+ pe Tomatoes (2g carbs\, 1/4 Cup)\n- Onion (9g carbs\, 1 Ounce)\n- Baby Car
+ rots (6g carbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n-
+  Broccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce Cup\, S
+ trawberry (14g carbs\, 1 Container)\n- Orange\, fresh (13g carbs\, 1 whole
+ )\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g car
+ bs\, 1 Package)\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Containe
+ r)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Choc
+ olate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese 
+ Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-02-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cinnamon Apple Parfait (7
+ 7g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Ca
+ rne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\
+ , Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gri
+ lled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Sa
+ lad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips\, La
+ y's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28
+ g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- C
+ hips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\
+ , Waffle (41g carbs\, 1 cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Baby 
+ Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4
+   Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 
+ Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2
+  Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit (19g carbs\, 1 Container)
+ \n- Craisins\, Strawberry (27g carbs\, Ounces)\n- Apples\, fresh (14g carb
+ s\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, f
+ resh (13g carbs\, 1 whole)\nDessert:\n- S'mores Cookie Bar (24g carbs\, 1 
+ each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stic
+ k\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (
+ 2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-05-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree:\n- Hawaiian Haystacks (2g carbs\, 1/2 Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/Banana 
+ Parfait (92g carbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Ea
+ ch)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicke
+ n Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1
+  each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (
+ 12g carbs\, Chef Salad)\nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Chees
+ e Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 
+ 1 each)\n- Chow Mein Noodles (9g carbs\, 1/4  Cup)\n- Chips\, Lay's Sour C
+ ream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranc
+ h (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g
+  carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\
+ n- Green Peas (11g carbs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Le
+ ttuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 
+ each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1
+ /2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cu
+ p)\nFruit:\n- Pineapple Tidbits (15g carbs\, 1/2 Cup Serving)\n- Banana\, 
+ Fresh (23g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\n- Slice
+ d Apples\, package (7g carbs\, 1 Package)\nDessert:\n- Ice Cream Cup\, Cho
+ colate (17g carbs\, 1 Container)\n- Ice Cream Cup\, Strawberry (16g carbs\
+ , 1 Container)\n- Ice Cream Cup\, Vanilla (16g carbs\, 1 Container)\n- Cho
+ colate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\
+ , 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (
+ 23g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1
+  oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-06-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree:\n- Crisp Taco (13g carbs\, 1 each)\n- Chicken Nugg
+ ets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter (
+ 64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64
+ g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n
+ - Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/Banana Parfait (
+ 92g carbs\, Each)\n- Blueberry/Strawberry Parfait (83g carbs\, Each)\n- Ch
+ ili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (
+ 39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n-
+  Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs
+ \, Chef Salad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay'
+ s Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Cinnamon Churro (
+ 44g carbs\, 2 Each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n-
+  Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Frie
+ s\, Wedges (38g carbs\, 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- 
+ Sugar Snap Peas (2g carbs\, 1/2  Cup)\n- Lettuce\, Shredded (0g carbs\, 1/
+ 4  Cup)\n- Tomato\, Fresh (1g carbs\, 1/8 cup diced)\n- Baby Carrots (6g c
+ arbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers 
+ (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Con
+ tainer)\n- Watermelon\, fresh (6g carbs\, .5 cup)\n- Apples\, fresh (14g c
+ arbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\
+ , Fresh (23g carbs\, 1 whole)\nDairy and Egg Products:\n- Cheese Blend (2g
+  carbs\, 1 oz)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDess
+ ert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-07-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree:\n- Corn Dog (34g carbs\, Each)\n- Popcorn Chicken 
+ (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g c
+ arbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g car
+ bs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cin
+ namon Apple Parfait (77g carbs\, Each)\n- Strawberry/Banana Parfait (92g c
+ arbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cris
+ py Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g 
+ carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Che
+ f Salad (12g carbs\, Chef Salad)\nSides:\n- Jalapeno & Cheddar Kettle Lays
+  (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag)
+ \n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17g carbs\, 1 Package)\n
+ - Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g c
+ arbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packag
+ e (1 oz))\nVegetables:\n- Baked Beans (32g carbs\, 1/2 Cup)\n- Broccoli Fl
+ orets\, raw (5g carbs\, 1/2 Cup)\n- Side Salad - Elem Romaine (1g carbs\, 
+ 1/2  Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs
+ \, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g
+  carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Orange
+ s (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Ap
+ ples\, package (7g carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 who
+ le)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg
+  Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-08-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Lunch: Chicken Alfredo
+DESCRIPTION:Main Entree:\n- Chicken Alfredo (6g carbs\, 3/4 cup serving)\n-
+  Chicken Tenders (15g carbs\, 4 Tenders)\n- Uncrustables\, Large Grape & P
+ eanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pea
+ nut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs
+ \, Sandwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/Ba
+ nana Parfait (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs
+ \, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy 
+ Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g car
+ bs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Penne Pasta
+  (27g carbs\, 1 Cup)\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Ch
+ ips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\,
+  2oz (28g carbs\, 1 each)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) 
+ (17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Cheeto
+ s Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (43g ca
+ rbs\, 1 Cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Celery (1g carbs\, 1/
+ 2 Cup)\n- Side Salad - Elem Romaine (1g carbs\, 1/2  Cup)\n- Grape Tomatoe
+ s (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Pot
+ ato\, Bakers (21g carbs\, Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2 
+ Cup)\nFruit:\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\
+ n- Grapes\, Green (17g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Who
+ le)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nSides:\n- Cheese St
+ ick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g 
+ carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-09-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cinnamon Apple Parfait (7
+ 7g carbs\, Each)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili 
+ Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g 
+ carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Ber
+ ry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, C
+ hef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chip
+ s\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2
+ oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz)
+ )\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- 
+ Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend Vegetables (5g carbs\, 
+ 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\
+ , Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\
+ n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Ba
+ ked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit
+  (19g carbs\, 1 Container)\n- Sliced Apples\, package (7g carbs\, 1 Packag
+ e)\n- Apples\, fresh (14g carbs\, Whole)\n- Orange\, fresh (13g carbs\, 1 
+ whole)\nDessert:\n- Tuxedo Cookie (18g carbs\, Each)\n- Chocolate Chip Coo
+ kie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 e
+ ach)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-12-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree:\n- Mandarin Orange Chicken (19g carbs\, 1/2 Cup)\n
+ - Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/B
+ anana Parfait (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carb
+ s\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy
+  Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g ca
+ rbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Brown Rice
+  (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:
+ \n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion
+  (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\,
+  1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 pac
+ kage (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Broccoli No
+ rmandy (3g carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\,
+  Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n
+ - Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)
+ \n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFru
+ it:\n- Tropical Fruit Salad\, Dole (22g carbs\, 1/2  Cup Serving)\n- Straw
+ berries\, fresh (8g carbs\, 1/2  Cup)\n- Apples\, fresh (14g carbs\, Whole
+ )\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g
+  carbs\, 1 whole)\nDessert:\n- Fortune Cookie (4g carbs\, 1 cookie)\n- Cho
+ colate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\
+ , 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (
+ 23g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1
+  oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-13-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Lunch: Chili Cheese Fries
+DESCRIPTION:Main Entree:\n- Chili Cheese Fries (70g carbs\, Serving)\n- Chi
+ cken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/Banana 
+ Parfait (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/
+ 4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chick
+ en Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 
+ 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Rolls\, 2oz (28g
+  carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 pack
+ age (1 oz))\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\,
+  Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedg
+ es (38g carbs\, 1 cup)\n- Sunshine Carrot Mix (6g carbs\, 1/2  Cup Serving
+ )\n- Sugar Snap Peas (2g carbs\, 1/2  Cup)\n- Baby Carrots (6g carbs\, 1/2
+  Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs
+ \, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n-
+  Honeydew Melon (10g carbs\, 1/2  Cup)\n- Apples\, fresh (14g carbs\, Whol
+ e)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23
+ g carbs\, 1 whole)\nDessert:\n- Pudding\, Chocolate (23g carbs\, 1 each)\n
+ - Pudding\, Vanilla (23g carbs\, 1 each)\n- Chocolate Chip Cookie (18g car
+ bs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy 
+ and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-14-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Lunch: French Toast Sticks
+DESCRIPTION:Main Entree:\n- French Toast Sticks (38g carbs\, 3.3 oz)\n- Pop
+ corn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut 
+ Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, San
+ dwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Blueberry/Strawberr
+ y Parfait (83g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 
+ 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chi
+ cken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\
+ , 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Egg\, hard boi
+ led (1g carbs\, Whole)\n- Pork Sausage Links (0g carbs\, 2 links)\n- Chees
+ e Stick\, Marbled (1g carbs\, 1 each)\n- Jalapeno & Cheddar Kettle Lays (2
+ 6g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag)\nG
+ rain:\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (1 oz))\n- Chip
+ s\, Doritos Nacho Cheese (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos
+  Spicy Sweet Chili (20g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cr
+ eam and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1
+  each)\nVegetables:\n- Hashbrown\, Triangle Patty (24g carbs\, 2 Patties)\
+ n- Green Peas (11g carbs\, 1/2 Cup)\n- Baked Beans (32g carbs\, 1/2 Cup)\n
+ - Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g ca
+ rbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g 
+ carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g car
+ bs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\
+ , fresh (7g carbs\, 1/2 each)\n- Sliced Apples\, package (7g carbs\, 1 Pac
+ kage)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- Chocolate Chip 
+ Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g c
+ arbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-19-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Lunch: Chicken Egg Rolls
+DESCRIPTION:Main Entree:\n- Chicken Egg Rolls (38g carbs\, 2 Each)\n- Chick
+ en Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut 
+ Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, San
+ dwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry/Banana P
+ arfait (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4
+  Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicke
+ n Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1
+  each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Ham Fried Rice (1
+ 7g carbs\, 1 Cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nVegetable
+ s:\n- Tator Tots (23g carbs\, 1 cup)\n- Broccoli Normandy (6g carbs\, 1 cu
+ p)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Se
+ rving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each
+ )\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Pineapple Tidbits (15g carbs\,
+  1/2 Cup Serving)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Apples\, fres
+ h (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nD
+ essert:\n- Ice Cream Cup\, Chocolate (17g carbs\, 1 Container)\n- Ice Crea
+ m Cup\, Vanilla (16g carbs\, 1 Container)\n- Chocolate Chip Cookie (18g ca
+ rbs\, 1 each)\n- Ice Cream Cup\, Strawberry (16g carbs\, 1 Container)\n- P
+ udding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tapioca (20g carbs\, 
+ 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nGrain:\n- Chips\, Lay's
+  Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g c
+ arbs\, 1 each)\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (1 oz)
+ )\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (1 oz))\nDai
+ ry and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-20-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Lunch: Fiesta Crunch Bowl\, Secondary
+DESCRIPTION:Main Entree:\n- Fiesta Crunch Bowl\, Secondary (11g carbs\, 1/2
+  Cup Serving)\n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, 
+ Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large S
+ trawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: F
+ Trip (30g carbs\, Sandwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n
+ - Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (
+ 30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spic
+ y Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad
+  (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Br
+ own Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)
+ \nGrain:\n- Chips\, Tostitos Scoops (19g carbs\, 1 Package)\n- Rolls\, 2oz
+  (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1
+  package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Ch
+ ips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\,
+  Wedges (38g carbs\, 1 cup)\n- Beans\, Black (23g carbs\, 1/2 Cup)\n- Corn
+ \, Whole Kernel (16g carbs\, 1/2 Cup)\n- Onion (5g carbs\, 1/4  Cup)\n- Ci
+ lantro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\
+ n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFrui
+ t:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Pear\, Fresh 
+ Whole (25g carbs\, 1 each)\n- Lime Slices (2g carbs\, 1/4 Lime)\n- Apples\
+ , fresh (14g carbs\, Whole)\n- Watermelon\, fresh (6g carbs\, .5 cup)\n- S
+ liced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g carbs
+ \, 1 whole)\nDessert:\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Puddi
+ ng\, Vanilla (23g carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 
+ each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-21-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lunch: Bacon Cheeseburger\, Secondary
+DESCRIPTION:Main Entree:\n- Bacon Cheeseburger\, Secondary (31g carbs\, 1 e
+ ach)\n- Popcorn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grap
+ e & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry 
+ & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g 
+ carbs\, Sandwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawber
+ ry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\
+ , 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy C
+ hicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carb
+ s\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Chips\, Lay'
+ s BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\,
+  1 package (1 oz))\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 pa
+ ckage (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\nVegetables:\n- Sunshine
+  Carrot Mix (6g carbs\, 1/2  Cup Serving)\n- Side Salad - Secondary Romain
+ e (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Lettuce\, Shr
+ edded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Ba
+ by Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- 
+ Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFruit
+ :\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\,
+  Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, fres
+ h (13g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 ea
+ ch)\n- Jalapeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vi
+ negar Kettle Lays (28g carbs\, 1 bag)\nDessert:\n- Chocolate Chip Cookie (
+ 18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1
+  oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-22-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree:\n- Cheese Tortellini (36g carbs\, 10 pieces)\n- Be
+ ef Rosa Sauce (13g carbs\, 3/4 cup)\n- Chicken Tenders (15g carbs\, 4 Tend
+ ers)\n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n-
+  Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- H
+ am & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cinnamon Apple Parfa
+ it (77g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili C
+ on Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g c
+ arbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berr
+ y Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Ch
+ ef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips
+ \, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2o
+ z (28g carbs\, 1 each)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17
+ g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Cheetos F
+ antastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (43g carbs
+ \, 1 Cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Celery (1g carbs\, 1/2 C
+ up)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (
+ 2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Potato
+ \, Bakers (21g carbs\, Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2 Cup
+ )\nFruit:\n- Applesauce Cup\, Strawberry (14g carbs\, 1 Container)\n- Grap
+ es\, Green (17g carbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- 
+ Sliced Apples\, package (7g carbs\, 1 Package)\n- Applesauce Cup\, Blue Ra
+ spberry (15g carbs\, 1 Container)\nSides:\n- Cheese Stick\, Marbled (1g ca
+ rbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDai
+ ry and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-26-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree:\n- Teriyaki Chicken (10g carbs\, 1/2  Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry Parfait
+  (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)
+ \n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sal
+ ad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each
+ )\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Brown Rice (48g carbs\
+ , 1 cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 
+ 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\
+ , 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (
+ 1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (1 oz))
+ \nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Broccoli Normandy (3g c
+ arbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\, Shredded (0
+ g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby Carro
+ ts (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\,
+  Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Tropi
+ cal Fruit Salad\, Dole (22g carbs\, 1/2  Cup Serving)\n- Banana\, Fresh (2
+ 3g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples
+ \, package (7g carbs\, 1 Package)\nDessert:\n- Fortune Cookie (4g carbs\, 
+ 1 cookie)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Choco
+ late (23g carbs\, 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pud
+ ding\, Vanilla (23g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Ble
+ nd (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-27-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Lunch: Street Taco
+DESCRIPTION:Main Entree:\n- Street Taco (30g carbs\, 2 Each)\n- Chicken Nug
+ gets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter 
+ (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\
+ n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry Parfait (106g c
+ arbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cris
+ py Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g 
+ carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Che
+ f Salad (12g carbs\, Chef Salad)\nGrain:\n- Cinnamon Churro (44g carbs\, 2
+  Each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz)
+ )\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Reg
+ ular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedges (38g ca
+ rbs\, 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- Sugar Snap Peas (2
+ g carbs\, 1/2  Cup)\n- Onion (9g carbs\, 1 Ounce)\n- Cilantro (0g carbs\, 
+ 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs
+ \, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFruit:\n- Fruit Cup\, D
+ iced Peaches (18g carbs\, 1 Container)\n- Plum\, Fresh (15g carbs\, 2 Each
+ )\n- Lime Slices (7g carbs\, 1 fruit (2" dia))\n- Apples\, fresh (14g carb
+ s\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, F
+ resh (23g carbs\, 1 whole)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1
+  each)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy and 
+ Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-28-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree:\n- Grilled Cheese Sandwich (33g carbs\, 1 each)\n-
+  Spicy Grilled Cheese Sandwich (32g carbs\, 1 each)\n- Popcorn Chicken (23
+ g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g carb
+ s\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\
+ , 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cinnam
+ on Apple Parfait (77g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Ea
+ ch)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicke
+ n Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1
+  each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (
+ 12g carbs\, Chef Salad)\nSides:\n- Soup\, Tomato (40g carbs\, 1 Cup)\n- Ch
+ eese Stick\, Marbled (1g carbs\, 1 each)\n- Jalapeno & Cheddar Kettle Lays
+  (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag)
+ \nGrain:\n- Crackers\, Cheezits (14g carbs\, 1 Package)\n- Crackers\, Spic
+ y Buffalo Cheezit's (14g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 
+ 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\n- Rolls\, 2oz (28g c
+ arbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packag
+ e (1 oz))\nVegetables:\n- Green Peas (11g carbs\, 1/2 Cup)\n- Side Salad -
+  Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)
+ \n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cu
+ p)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\
+ nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14g c
+ arbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\
+ , fresh (13g carbs\, 1 whole)\nDessert:\n- Chocolate Chip Cookie (18g carb
+ s\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-29-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Lunch: Mac and Cheese
+DESCRIPTION:Main Entree:\n- Mac and Cheese (31g carbs\, 1 cup)\n- Chicken T
+ enders (15g carbs\, 4 Tenders)\n- Uncrustables\, Large Grape & Peanut Butt
+ er (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter
+  (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwic
+ h)\n- Cinnamon Apple Parfait (77g carbs\, Each)\n- Strawberry Parfait (106
+ g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- C
+ rispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (3
+ 3g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- 
+ Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Fish Sticks (21g carbs\, 4 
+ pieces)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2
+ oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\,
+  1 package (1 oz))\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17g ca
+ rbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Cheetos Fanta
+ stix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (43g carbs\, 1
+  Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Celery (1g carbs\, 1
+ /2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomato
+ es (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Po
+ tato\, Bakers (21g carbs\, Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2
+  Cup)\nFruit:\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)
+ \n- Orange\, fresh (13g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Wh
+ ole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nDessert:\n- Chocol
+ ate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Bl
+ end (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-30-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Cinnamon Apple Parfait (7
+ 7g carbs\, Each)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Ca
+ rne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\
+ , Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gri
+ lled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Sa
+ lad)\nGrain:\n- Garlic Breadsticks (29g carbs\, Breadsticks)\n- Chips\, La
+ y's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28
+ g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- C
+ hips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\
+ , Waffle (41g carbs\, 1 cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Baby 
+ Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4
+   Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 
+ Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2
+  Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fruit (19g carbs\, 1 Container)
+ \n- Craisins\, Cherry (27g carbs\, Package)\n- Apples\, fresh (14g carbs\,
+  Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Orange\, fres
+ h (13g carbs\, 1 whole)\nDessert:\n- Cookie\, Holiday Frosted (27g carbs\,
+  1 cookie)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese
+  Stick\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Bl
+ end (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-02-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Lunch: General Tso's Chicken
+DESCRIPTION:Main Entree:\n- General Tso's Chicken (22g carbs\, 1/2  Cup)\n-
+  Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & P
+ eanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pea
+ nut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs
+ \, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne 
+ & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Se
+ rving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled
+  Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)
+ \nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g c
+ arbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay'
+ s Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos C
+ ool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Ch
+ ili (20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\,
+  1 cup)\n- Green Peas (11g carbs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cu
+ p)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g ca
+ rbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g c
+ arbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\
+ , 1/2 Cup)\nFruit:\n- Pineapple Tidbits (15g carbs\, 1/2 Cup Serving)\n- B
+ anana\, Fresh (23g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\
+ n- Sliced Apples\, package (7g carbs\, 1 Package)\nDessert:\n- Ice Cream B
+ ar\, Vanilla Crunch (17g carbs\, 1 each)\n- Chocolate Chip Cookie (18g car
+ bs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tapi
+ oca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nDairy 
+ and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-03-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Lunch: Super Nachos\, Secondary
+DESCRIPTION:Main Entree:\n- Super Nachos\, Secondary (35g carbs\, 1/2 Cup)\
+ n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne
+  & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, S
+ erving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grille
+ d Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad
+ )\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream 
+ and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\,
+  1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))
+ \nVegetables:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Beans\, Black (23g 
+ carbs\, 1/2 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Onion (5g
+  carbs\, 1/4  Cup)\n- Cilantro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g c
+ arbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers 
+ (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Con
+ tainer)\n- Pear\, Fresh Whole (25g carbs\, 1 each)\n- Apples\, fresh (14g 
+ carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana
+ \, Fresh (23g carbs\, 1 whole)\nDessert:\n- Pudding\, Chocolate (23g carbs
+ \, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\n- Chocolate Chip Coo
+ kie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 e
+ ach)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-04-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree:\n- Hot Dog Wrap (31g carbs\, Each)\n- Popcorn Chic
+ ken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g
+  carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n-
+  Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (3
+ 0g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy
+  Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad 
+ (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Jal
+ apeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kett
+ le Lays (28g carbs\, 1 bag)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked
+ ) (17g carbs\, 1 Package)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nG
+ rain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and 
+ Onion (15g carbs\, 1 package (1 oz))\nVegetables:\n- Baked Beans (32g carb
+ s\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape T
+ omatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\
+ n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cu
+ cumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 C
+ up)\n- Apples\, fresh (7g carbs\, 1/2 each)\n- Sliced Apples\, package (7g
+  carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- C
+ hocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Chee
+ se Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-05-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Lunch: Triple Decker Hoagie\, Secondary
+DESCRIPTION:Main Entree:\n- Triple Decker Hoagie\, Secondary (30g carbs\, S
+ andwich)\n- Chicken Tenders (15g carbs\, 4 Tenders)\n- Uncrustables\, Larg
+ e Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Straw
+ berry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip
+  (30g carbs\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili
+  Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g
+  carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Be
+ rry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, 
+ Chef Salad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's S
+ our Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Ched
+ dar & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g car
+ bs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 
+ 50/50 Fries\, Sec (43g carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 
+ 1/2 Cup)\n- Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine 
+ (2g carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Lettuce\, Shred
+ ded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby
+  Carrots (6g carbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each
+ )\n- Broccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce cup
+ \, Mango Peach (15g carbs\, 1 Container)\n- Grapes\, Green (17g carbs\, 1/
+ 2 Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7
+ g carbs\, 1 Package)\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Con
+ tainer)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n-
+  Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Ch
+ eese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-06-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs
+ \, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g c
+ arbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend 
+ Vegetables (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 C
+ up Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chi
+ ps (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (
+ 21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cu
+ p\, Harvest Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\, packa
+ ge (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- Orange\
+ , fresh (13g carbs\, 1 whole)\nDessert:\n- Pumpkin Chocolate Chip Bar (21g
+  carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- 
+ Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Che
+ ese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-09-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Lunch: Sweet & Sour Chicken
+DESCRIPTION:Main Entree:\n- Sweet & Sour Chicken (19g carbs\, 1/2 Cup)\n- C
+ hicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Pea
+ nut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanu
+ t Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\,
+  Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & 
+ Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serv
+ ing)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled C
+ hicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\n
+ Sides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g car
+ bs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's 
+ Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Coo
+ l Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chil
+ i (20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1
+  cup)\n- Broccoli Normandy (3g carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1
+ /2 Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (
+ 0g carbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery 
+ (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g c
+ arbs\, 1/2 Cup)\nFruit:\n- Tropical Fruit Salad\, Dole (22g carbs\, 1/2  C
+ up Serving)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Apples\, fresh (14g
+  carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nDessert
+ :\n- Fortune Cookie (4g carbs\, 1 cookie)\n- Chocolate Chip Cookie (18g ca
+ rbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tap
+ ioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nDairy
+  and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-10-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Lunch: Nacho Fries\, Secondary
+DESCRIPTION:Main Entree:\n- Nacho Fries\, Secondary (59g carbs\, 1  Cup Ser
+ ving)\n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Gr
+ ape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberr
+ y & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30
+ g carbs\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con
+  Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g car
+ bs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry 
+ Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef
+  Salad)\nGrain:\n- Cinnamon Twist (40g carbs\, Each)\n- Chips\, Lay's Sour
+  Cream and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\
+ , 1 each)\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, L
+ ay's Regular (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedges
+  (38g carbs\, 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- Sugar Snap
+  Peas (2g carbs\, 1/2  Cup)\n- Onion (5g carbs\, 1/4  Cup)\n- Cilantro (0g
+  carbs\, 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery 
+ (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFruit:\n- Frui
+ t Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Plum\, Fresh (15g carbs
+ \, 2 Each)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, packag
+ e (7g carbs\, 1 Package)\n- Banana\, Fresh (23g carbs\, 1 whole)\nSides:\n
+ - Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip C
+ ookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g ca
+ rbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-11-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lunch: Breakfast Sandwich
+DESCRIPTION:Main Entree:\n- Breakfast Sandwich (21g carbs\, 1 each)\n- Popc
+ orn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut B
+ utter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut But
+ ter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sand
+ wich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans
+ \, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\
+ n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicke
+ n Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain
+ :\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, 
+ Doritos Nacho Cheese (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spi
+ cy Sweet Chili (20g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Cream 
+ and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 eac
+ h)\nVegetables:\n- Hashbrown\, Triangle Patty (24g carbs\, 2 Patties)\n- G
+ reen Peas (11g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carb
+ s\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\
+ , 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g 
+ carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges
+  (16g carbs\, 1/2 Cup)\n- Apples\, fresh (7g carbs\, 1/2 each)\n- Sliced A
+ pples\, package (7g carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 wh
+ ole)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\n- Jalapeno & C
+ heddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (
+ 28g carbs\, 1 bag)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)
+ \nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-12-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lunch: Loaded BBQ Tots
+DESCRIPTION:Main Entree:\n- Loaded BBQ Tots (42g carbs\, 1 each)\n- Chicken
+  Tenders (15g carbs\, 4 Tenders)\n- Uncrustables\, Large Grape & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butt
+ er (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandw
+ ich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\
+ , HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n
+ - Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken
+  Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:
+ \n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion
+  (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Cheddar & Sour Cream (B
+ aked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\, 1 Package)\n- 
+ Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/50 Fries\, Sec (
+ 43g carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Celery 
+ (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n-
+  Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup S
+ erving)\n- Potato\, Bakers (21g carbs\, Each)\n- Broccoli Florets\, raw (5
+ g carbs\, 1/2 Cup)\nFruit:\n- Applesauce Cup\, Strawberry (14g carbs\, 1 C
+ ontainer)\n- Orange\, fresh (13g carbs\, 1 whole)\n- Apples\, fresh (14g c
+ arbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Applesa
+ uce Cup\, Blue Raspberry (15g carbs\, 1 Container)\nSides:\n- Cheese Stick
+ \, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18g car
+ bs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-13-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs
+ \, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g c
+ arbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Green Beans (
+ 4g carbs\, 1/2  Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettu
+ ce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 eac
+ h)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n-
+  Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fr
+ uit (19g carbs\, 1 Container)\n- Craisins\, Strawberry (27g carbs\, Ounces
+ )\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g car
+ bs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- S'mor
+ es Cookie Bar (24g carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1
+  each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy and Eg
+ g Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-16-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree:\n- Hawaiian Haystacks (2g carbs\, 1/2 Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili Con Carne
+  & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, S
+ erving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grille
+ d Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad
+ )\nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g 
+ carbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chow Mein N
+ oodles (9g carbs\, 1/4  Cup)\n- Chips\, Lay's Sour Cream and Onion (15g ca
+ rbs\, 1 package (1 oz))\n- Chips\, Doritos Cool Ranch (20g carbs\, 1 packa
+ ge (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\, 1 package (1 
+ oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Green Peas (11g car
+ bs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Lettuce\, Shredded (0g c
+ arbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 each)\n- Baby Carrots 
+ (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Ba
+ kers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- Pineappl
+ e Tidbits (15g carbs\, 1/2 Cup Serving)\n- Banana\, Fresh (23g carbs\, 1 w
+ hole)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g
+  carbs\, 1 Package)\nDessert:\n- Ice Cream Cup\, Chocolate (17g carbs\, 1 
+ Container)\n- Ice Cream Cup\, Vanilla (16g carbs\, 1 Container)\n- Chocola
+ te Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 
+ each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g 
+ carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-17-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree:\n- Crisp Taco (13g carbs\, 1 each)\n- Chicken Nugg
+ ets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter (
+ 64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64
+ g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n
+ - Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili Con Carne & Beans\
+ , HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n
+ - Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken
+  Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:
+ \n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and Onion
+  (15g carbs\, 1 package (1 oz))\n- Cinnamon Churro (44g carbs\, 2 Each)\n-
+  Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular
+  (15g carbs\, 1 package (1 oz))\nVegetables:\n- Fries\, Wedges (38g carbs\
+ , 1 cup)\n- Beans\, Refried (24g carbs\, .5 Cup)\n- Sugar Snap Peas (2g ca
+ rbs\, 1/2  Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Tomato\, Fr
+ esh (1g carbs\, 1/8 cup diced)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving
+ )\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\nFr
+ uit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Pear\, Fres
+ h Whole (25g carbs\, 1 each)\n- Apples\, fresh (14g carbs\, Whole)\n- Slic
+ ed Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fresh (23g carbs\, 
+ 1 whole)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)\nSides
+ :\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chi
+ p Cookie (18g carbs\, 1 each)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-18-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree:\n- Corn Dog (34g carbs\, Each)\n- Popcorn Chicken 
+ (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g c
+ arbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g car
+ bs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Str
+ awberry/Banana Parfait (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS 
+ (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spi
+ cy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Sala
+ d (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- J
+ alapeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Ke
+ ttle Lays (28g carbs\, 1 bag)\n- Chips\, Ruffles Cheddar & Sour Cream (Bak
+ ed) (17g carbs\, 1 Package)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\
+ nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream an
+ d Onion (15g carbs\, 1 package (1 oz))\nVegetables:\n- Baked Beans (32g ca
+ rbs\, 1/2 Cup)\n- Broccoli Florets\, raw (5g carbs\, 1/2 Cup)\n- Side Sala
+ d - Elem Romaine (1g carbs\, 1/2  Cup)\n- Grape Tomatoes (2g carbs\, 1/4 C
+ up)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2
+  Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumber (4g carbs\, 1/2 Cu
+ p)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n- Apples\, fresh (14
+ g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Oran
+ ge\, fresh (13g carbs\, 1 whole)\nDessert:\n- Chocolate Chip Cookie (18g c
+ arbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-19-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Lunch: Turkey Breast Roast\, Sliced
+DESCRIPTION:Main Entree:\n- Turkey Breast Roast\, Sliced (1g carbs\, 2 slic
+ es)\n- Chicken Tenders (9g carbs\, 2 Tenders)\n- Uncrustables\, Large Grap
+ e & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry 
+ & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g 
+ carbs\, Sandwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili
+  Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g
+  carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Be
+ rry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, 
+ Chef Salad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's S
+ our Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Ched
+ dar & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g car
+ bs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 
+ Mashed Potatoes (48g carbs\, 1/2  Cup Serving)\n- Fries\, Waffle (41g carb
+ s\, 1 cup)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Celery (1g carbs\, 1/2 
+ Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes 
+ (4g carbs\, 1/2 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Side 
+ Salad - Elem Romaine (1g carbs\, 1/2  Cup)\n- Potato\, Bakers (21g carbs\,
+  Each)\n- Broccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauc
+ e Cup\, Blue Raspberry (15g carbs\, 1 Container)\n- Grapes\, Green (17g ca
+ rbs\, 1/2 Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, pa
+ ckage (7g carbs\, 1 Package)\nDessert:\n- Pumpkin Pie (45g carbs\, Slice)\
+ n- Whipped Topping (3g carbs\, 2 Tbs.)\n- Chocolate Chip Cookie (18g carbs
+ \, 1 each)\nSoups\, Sauces\, and Gravies:\n- Gravy\, Chicken (1g carbs\, 1
+ /2  Cup)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy and 
+ Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-20-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry/Banana Parfait
+  (92g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\
+ n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Sala
+ d (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)
+ \n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g
+  carbs\, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1
+  package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ 
+ (16g carbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 pac
+ kage (1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden 
+ Blend Vegetables (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\,
+  1/2 Cup Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pick
+ le Chips (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Ba
+ kers (21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fr
+ uit Cup\, Harvest Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\,
+  package (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- O
+ range\, fresh (13g carbs\, 1 whole)\nDessert:\n- Tuxedo Cookie (18g carbs\
+ , Each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese St
+ ick\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend
+  (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-23-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree:\n- Mandarin Orange Chicken (19g carbs\, 1/2 Cup)\n
+ - Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili Con
+  Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g car
+ bs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry 
+ Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef
+  Salad)\nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marble
+ d (1g carbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips
+ \, Lay's Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Do
+ ritos Cool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy S
+ weet Chili (20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g 
+ carbs\, 1 cup)\n- Broccoli Normandy (3g carbs\, 1/2  Cup)\n- Cucumber (4g 
+ carbs\, 1/2 Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickl
+ e Chips (0g carbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n
+ - Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jic
+ ama (6g carbs\, 1/2 Cup)\nFruit:\n- Tropical Fruit Salad\, Dole (22g carbs
+ \, 1/2  Cup Serving)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Apples\, f
+ resh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)
+ \nDessert:\n- Fortune Cookie (4g carbs\, 1 cookie)\n- Chocolate Chip Cooki
+ e (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudd
+ ing\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 eac
+ h)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-24-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Lunch: Chili Cheese Fries
+DESCRIPTION:Main Entree:\n- Chili Cheese Fries (70g carbs\, Serving)\n- Chi
+ cken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili Con Carne
+  & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, S
+ erving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grille
+ d Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad
+ )\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream 
+ and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\,
+  1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))
+ \nVegetables:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Sunshine Carrot Mix
+  (6g carbs\, 1/2  Cup Serving)\n- Sugar Snap Peas (2g carbs\, 1/2  Cup)\n-
+  Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\
+ n- Potato\, Bakers (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches
+  (18g carbs\, 1 Container)\n- Plum\, Fresh (15g carbs\, 2 Each)\n- Apples\
+ , fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Packa
+ ge)\n- Banana\, Fresh (23g carbs\, 1 whole)\nDessert:\n- Pudding\, Chocola
+ te (23g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\n- Choco
+ late Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1
+ g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 o
+ z)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-30-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Lunch: Chicken Egg Rolls
+DESCRIPTION:Main Entree:\n- Chicken Egg Rolls (38g carbs\, 2 Each)\n- Chick
+ en Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut 
+ Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Bu
+ tter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, San
+ dwich)\n- Strawberry/Banana Parfait (92g carbs\, Each)\n- Chili Con Carne 
+ & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Se
+ rving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled
+  Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)
+ \nSides:\n- Ham Fried Rice (17g carbs\, 1 Cup)\n- Cheese Stick\, Marbled (
+ 1g carbs\, 1 each)\nVegetables:\n- Tator Tots (23g carbs\, 1 cup)\n- Brocc
+ oli Normandy (6g carbs\, 1 cup)\n- Cucumber (4g carbs\, 1/2 Cup)\n- Baby C
+ arrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Pota
+ to\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\, 1/2 Cup)\nFruit:\n- P
+ ineapple Tidbits (15g carbs\, 1/2 Cup Serving)\n- Banana\, Fresh (23g carb
+ s\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, pack
+ age (7g carbs\, 1 Package)\nDessert:\n- Ice Cream Cup\, Chocolate (17g car
+ bs\, 1 Container)\n- Ice Cream Cup\, Vanilla (16g carbs\, 1 Container)\n- 
+ Chocolate Chip Cookie (18g carbs\, 1 each)\n- Pudding\, Chocolate (23g car
+ bs\, 1 each)\n- Pudding\, Tapioca (20g carbs\, 1 each)\n- Pudding\, Vanill
+ a (23g carbs\, 1 each)\nGrain:\n- Chips\, Lay's Sour Cream and Onion (15g 
+ carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, D
+ oritos Cool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy 
+ Sweet Chili (20g carbs\, 1 package (1 oz))\nDairy and Egg Products:\n- Che
+ ese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-01-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lunch: Fiesta Crunch Bowl\, Secondary
+DESCRIPTION:Main Entree:\n- Fiesta Crunch Bowl\, Secondary (11g carbs\, 1/2
+  Cup Serving)\n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, 
+ Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large S
+ trawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: F
+ Trip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- C
+ hili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad 
+ (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n
+ - Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carb
+ s\, Chef Salad)\nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\
+ , Marbled (1g carbs\, 1 each)\nGrain:\n- Chips\, Tostitos Scoops (19g carb
+ s\, 1 Package)\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour C
+ ream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's BBQ (16g ca
+ rbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1
+  oz))\nVegetables:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Beans\, Black 
+ (23g carbs\, 1/2 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Onio
+ n (5g carbs\, 1/4  Cup)\n- Cilantro (0g carbs\, 2 Sprigs)\n- Baby Carrots 
+ (6g carbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Ba
+ kers (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 
+ 1 Container)\n- Kiwi\, Fresh (20g carbs\, 2 fruit)\n- Lime Slices (2g carb
+ s\, 1/4 Lime)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, pac
+ kage (7g carbs\, 1 Package)\n- Banana\, Fresh (23g carbs\, 1 whole)\nDesse
+ rt:\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Vanilla (23g 
+ carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy and E
+ gg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-02-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Lunch: Bacon Cheeseburger\, Secondary
+DESCRIPTION:Main Entree:\n- Bacon Cheeseburger\, Secondary (31g carbs\, 1 e
+ ach)\n- Popcorn Chicken (23g carbs\, Serving)\n- Uncrustables\, Large Grap
+ e & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry 
+ & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g 
+ carbs\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con C
+ arne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs
+ \, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gr
+ illed Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef S
+ alad)\nGrain:\n- Chips\, Lay's BBQ (16g carbs\, 1 package (1 oz))\n- Chips
+ \, Lay's Regular (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's Sour Crea
+ m and Onion (15g carbs\, 1 package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 e
+ ach)\nVegetables:\n- Sunshine Carrot Mix (6g carbs\, 1/2  Cup Serving)\n- 
+ Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape Tomatoes (2g carb
+ s\, 1/4 Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Ch
+ ips (0g carbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Ce
+ lery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cucumbe
+ r (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 Cup)\n
+ - Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\
+ , 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nSides:\n- Cheese Sti
+ ck\, Marbled (1g carbs\, 1 each)\n- Jalapeno & Cheddar Kettle Lays (26g ca
+ rbs\, 1 bag)\n- Sea Salt & Vinegar Kettle Lays (28g carbs\, 1 bag)\nDesser
+ t:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\
+ n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-03-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree:\n- Cheese Tortellini (36g carbs\, 10 pieces)\n- Be
+ ef Rosa Sauce (13g carbs\, 3/4 cup)\n- Chicken Tenders (15g carbs\, 4 Tend
+ ers)\n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n-
+  Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- H
+ am & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (
+ 106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n
+ - Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad
+  (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\
+ n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g 
+ carbs\, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 
+ package (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Ruffles Che
+ ddar & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g ca
+ rbs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n-
+  50/50 Fries\, Sec (43g carbs\, 1 Cup)\n- Green Beans (4g carbs\, 1/2  Cup
+ )\n- Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g car
+ bs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs
+ \, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n- Broccoli Flor
+ ets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce Cup\, Strawberry (14g
+  carbs\, 1 Container)\n- Grapes\, Green (17g carbs\, 1/2 Cup)\n- Apples\, 
+ fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package
+ )\n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\nSides:\n- 
+ Cheese Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Coo
+ kie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carb
+ s\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-04-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs
+ \, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g c
+ arbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend 
+ Vegetables (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 C
+ up Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chi
+ ps (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (
+ 21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cu
+ p\, Harvest Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\, packa
+ ge (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- Orange\
+ , fresh (13g carbs\, 1 whole)\nDessert:\n- S'mores Cookie Bar (24g carbs\,
+  1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese S
+ tick\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blen
+ d (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-07-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree:\n- Teriyaki Chicken (10g carbs\, 1/2  Cup)\n- Chic
+ ken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & Peanut
+  Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut B
+ utter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sa
+ ndwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Bea
+ ns\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving
+ )\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chic
+ ken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSid
+ es:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g carbs\
+ , 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sou
+ r Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos Cool R
+ anch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (
+ 20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\, 1 cu
+ p)\n- Broccoli Normandy (3g carbs\, 1/2  Cup)\n- Cucumber (4g carbs\, 1/2 
+ Cup)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g 
+ carbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g
+  carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g carb
+ s\, 1/2 Cup)\nFruit:\n- Tropical Fruit Salad\, Dole (22g carbs\, 1/2  Cup 
+ Serving)\n- Banana\, Fresh (23g carbs\, 1 whole)\n- Apples\, fresh (14g ca
+ rbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\nDessert:\n
+ - Fortune Cookie (4g carbs\, 1 cookie)\n- Chocolate Chip Cookie (18g carbs
+ \, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tapioc
+ a (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nDairy an
+ d Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-08-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Lunch: Street Taco
+DESCRIPTION:Main Entree:\n- Street Taco (30g carbs\, 2 Each)\n- Chicken Nug
+ gets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & Peanut Butter 
+ (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\
+ n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS 
+ (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spi
+ cy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Sala
+ d (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nGrain:\n- C
+ innamon Churro (44g carbs\, 2 Each)\n- Chips\, Lay's Sour Cream and Onion 
+ (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\, 1 package
+  (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))\nVegetabl
+ es:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Beans\, Refried (24g carbs\, 
+ .5 Cup)\n- Sugar Snap Peas (2g carbs\, 1/2  Cup)\n- Onion (9g carbs\, 1 Ou
+ nce)\n- Cilantro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g carbs\, 1/2 Cup
+  Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, E
+ ach)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Container)\n- Plu
+ m\, Fresh (15g carbs\, 2 Each)\n- Lime Slices (7g carbs\, 1 fruit (2" dia)
+ )\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g car
+ bs\, 1 Package)\n- Banana\, Fresh (23g carbs\, 1 whole)\nSides:\n- Cheese 
+ Stick\, Marbled (1g carbs\, 1 each)\nDessert:\n- Chocolate Chip Cookie (18
+ g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 o
+ z)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-09-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree:\n- Grilled Cheese Sandwich (33g carbs\, 1 each)\n-
+  Spicy Grilled Cheese Sandwich (32g carbs\, 1 each)\n- Popcorn Chicken (23
+ g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (64g carb
+ s\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g carbs\
+ , 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawb
+ erry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carb
+ s\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy
+  Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g ca
+ rbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Soup\, Tom
+ ato (40g carbs\, 1 Cup)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\n- J
+ alapeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Ke
+ ttle Lays (28g carbs\, 1 bag)\nGrain:\n- Crackers\, Cheezits (14g carbs\, 
+ 1 Package)\n- Crackers\, Spicy Buffalo Cheezit's (14g carbs\, 1 Package)\n
+ - Baked Cheetos (18g carbs\, 1 Package)\n- Cheetos Fantastix! (20g carbs\,
+  1 bag)\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream an
+ d Onion (15g carbs\, 1 package (1 oz))\nVegetables:\n- Green Peas (11g car
+ bs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape 
+ Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)
+ \n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- C
+ ucumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 
+ Cup)\n- Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g 
+ carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- Ch
+ ocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Chees
+ e Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-10-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Lunch: Mac and Cheese
+DESCRIPTION:Main Entree:\n- Mac and Cheese (31g carbs\, 1 cup)\n- Chicken T
+ enders (15g carbs\, 4 Tenders)\n- Uncrustables\, Large Grape & Peanut Butt
+ er (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter
+  (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwic
+ h)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, 
+ HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- 
+ Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken S
+ alad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n
+ - Fish Sticks (21g carbs\, 4 pieces)\n- Cheese Stick\, Marbled (1g carbs\,
+  1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour
+  Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Ruffles Cheddar
+  & Sour Cream (Baked) (17g carbs\, 1 Package)\n- Baked Cheetos (18g carbs\
+ , 1 Package)\n- Cheetos Fantastix! (20g carbs\, 1 bag)\nVegetables:\n- 50/
+ 50 Fries\, Sec (43g carbs\, 1 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2
+  Cup)\n- Celery (1g carbs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g
+  carbs\, Cup)\n- Grape Tomatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g c
+ arbs\, 1/2 Cup Serving)\n- Potato\, Bakers (21g carbs\, Each)\n- Broccoli 
+ Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Applesauce Cup\, Blue Raspbe
+ rry (15g carbs\, 1 Container)\n- Orange\, fresh (13g carbs\, 1 whole)\n- A
+ pples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\, 1
+  Package)\nDessert:\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nDairy a
+ nd Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-11-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs
+ \, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g c
+ arbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Green Beans (
+ 4g carbs\, 1/2  Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Lettu
+ ce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g carbs\, 4 eac
+ h)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n-
+  Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cup\, Harvest Mixed Fr
+ uit (19g carbs\, 1 Container)\n- Craisins\, Cherry (27g carbs\, Package)\n
+ - Apples\, fresh (14g carbs\, Whole)\n- Sliced Apples\, package (7g carbs\
+ , 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- Tuxedo C
+ ookie (18g carbs\, Each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\n- 
+ Cookie\, Holiday Frosted (27g carbs\, 1 cookie)\nSides:\n- Cheese Stick\, 
+ Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g c
+ arbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-14-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lunch: General Tso's Chicken
+DESCRIPTION:Main Entree:\n- General Tso's Chicken (22g carbs\, 1/2  Cup)\n-
+  Chicken Sandwich (42g carbs\, Sandwich)\n- Uncrustables\, Large Grape & P
+ eanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pea
+ nut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs
+ \, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne 
+ & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Se
+ rving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled
+  Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)
+ \nSides:\n- Brown Rice (48g carbs\, 1 cup)\n- Cheese Stick\, Marbled (1g c
+ arbs\, 1 each)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay'
+ s Sour Cream and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Doritos C
+ ool Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Ch
+ ili (20g carbs\, 1 package (1 oz))\nVegetables:\n- Tator Tots (23g carbs\,
+  1 cup)\n- Green Peas (11g carbs\, 1/2 Cup)\n- Cucumber (4g carbs\, 1/2 Cu
+ p)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chips (0g ca
+ rbs\, 4 each)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\n- Celery (1g c
+ arbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Jicama (6g carbs\
+ , 1/2 Cup)\nFruit:\n- Pineapple Tidbits (15g carbs\, 1/2 Cup Serving)\n- B
+ anana\, Fresh (23g carbs\, 1 whole)\n- Apples\, fresh (14g carbs\, Whole)\
+ n- Sliced Apples\, package (7g carbs\, 1 Package)\nDessert:\n- Ice Cream B
+ ar\, Vanilla Crunch (17g carbs\, 1 each)\n- Chocolate Chip Cookie (18g car
+ bs\, 1 each)\n- Pudding\, Chocolate (23g carbs\, 1 each)\n- Pudding\, Tapi
+ oca (20g carbs\, 1 each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\nDairy 
+ and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-15-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Lunch: Super Nachos\, Secondary
+DESCRIPTION:Main Entree:\n- Super Nachos\, Secondary (35g carbs\, 1/2 Cup)\
+ n- Chicken Nuggets (17g carbs\, 8 pieces)\n- Uncrustables\, Large Grape & 
+ Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Pe
+ anut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carb
+ s\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne
+  & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, S
+ erving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grille
+ d Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad
+ )\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream 
+ and Onion (15g carbs\, 1 package (1 oz))\n- Chips\, Lay's BBQ (16g carbs\,
+  1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (1 oz))
+ \nVegetables:\n- Fries\, Wedges (38g carbs\, 1 cup)\n- Beans\, Black (23g 
+ carbs\, 1/2 Cup)\n- Corn\, Whole Kernel (16g carbs\, 1/2 Cup)\n- Onion (5g
+  carbs\, 1/4  Cup)\n- Cilantro (0g carbs\, 2 Sprigs)\n- Baby Carrots (6g c
+ arbs\, 1/2 Cup Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers 
+ (21g carbs\, Each)\nFruit:\n- Fruit Cup\, Diced Peaches (18g carbs\, 1 Con
+ tainer)\n- Kiwi\, Fresh (20g carbs\, 2 fruit)\n- Apples\, fresh (14g carbs
+ \, Whole)\n- Sliced Apples\, package (7g carbs\, 1 Package)\n- Banana\, Fr
+ esh (23g carbs\, 1 whole)\nDessert:\n- Pudding\, Chocolate (23g carbs\, 1 
+ each)\n- Pudding\, Vanilla (23g carbs\, 1 each)\n- Chocolate Chip Cookie (
+ 18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\
+ nDairy and Egg Products:\n- Cheese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-16-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree:\n- Hot Dog Wrap (31g carbs\, Each)\n- Popcorn Chic
+ ken (23g carbs\, Serving)\n- Uncrustables\, Large Grape & Peanut Butter (6
+ 4g carbs\, 1 each)\n- Uncrustables\, Large Strawberry & Peanut Butter (64g
+  carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n-
+  Strawberry Parfait (106g carbs\, Each)\n- Chili Con Carne & Beans\, HS (3
+ 0g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs\, Serving)\n- Spicy
+  Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Grilled Chicken Salad 
+ (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef Salad)\nSides:\n- Jal
+ apeno & Cheddar Kettle Lays (26g carbs\, 1 bag)\n- Sea Salt & Vinegar Kett
+ le Lays (28g carbs\, 1 bag)\n- Chips\, Ruffles Cheddar & Sour Cream (Baked
+ ) (17g carbs\, 1 Package)\n- Cheese Stick\, Marbled (1g carbs\, 1 each)\nG
+ rain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's Sour Cream and 
+ Onion (15g carbs\, 1 package (1 oz))\nVegetables:\n- Baked Beans (32g carb
+ s\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape T
+ omatoes (2g carbs\, 1/4 Cup)\n- Baby Carrots (6g carbs\, 1/2 Cup Serving)\
+ n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Cu
+ cumber (4g carbs\, 1/2 Cup)\nFruit:\n- Mandarin Oranges (16g carbs\, 1/2 C
+ up)\n- Apples\, fresh (7g carbs\, 1/2 each)\n- Sliced Apples\, package (7g
+  carbs\, 1 Package)\n- Orange\, fresh (13g carbs\, 1 whole)\nDessert:\n- C
+ hocolate Chip Cookie (18g carbs\, 1 each)\nDairy and Egg Products:\n- Chee
+ se Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-17-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Lunch: Turkey Breast Roast\, Sliced
+DESCRIPTION:Main Entree:\n- Turkey Breast Roast\, Sliced (1g carbs\, 2 slic
+ es)\n- Chicken Tenders (9g carbs\, 2 Tenders)\n- Uncrustables\, Large Grap
+ e & Peanut Butter (64g carbs\, 1 each)\n- Uncrustables\, Large Strawberry 
+ & Peanut Butter (64g carbs\, 1 each)\n- Ham & Cheese Sandwich: FTrip (30g 
+ carbs\, Sandwich)\n- Strawberry Parfait (106g carbs\, Each)\n- Chili Con C
+ arne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Crispy Chicken Salad (39g carbs
+ \, Serving)\n- Spicy Crispy Chicken Salad (33g carbs\, 1 each)\n- Berry Gr
+ illed Chicken Salad (32g carbs\, 1 each)\n- Chef Salad (12g carbs\, Chef S
+ alad)\nGrain:\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Doritos Cool 
+ Ranch (20g carbs\, 1 package (1 oz))\n- Chips\, Doritos Nacho Cheese (20g 
+ carbs\, 1 package (1 oz))\n- Chips\, Doritos Spicy Sweet Chili (20g carbs\
+ , 1 package (1 oz))\n- Chips\, Doritos Wild White Nacho (20g carbs\, 1 pac
+ kage (1 oz))\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 package 
+ (1 oz))\n- Chips\, Ruffles Cheddar & Sour Cream (Baked) (17g carbs\, 1 Pac
+ kage)\n- Baked Cheetos (18g carbs\, 1 Package)\n- Cheetos Fantastix! (20g 
+ carbs\, 1 bag)\nVegetables:\n- Mashed Potatoes (48g carbs\, 1/2  Cup Servi
+ ng)\n- Green Beans (4g carbs\, 1/2  Cup)\n- Baby Carrots (6g carbs\, 1/2 C
+ up Serving)\n- Celery (1g carbs\, 1/2 Cup)\n- Corn\, Whole Kernel (16g car
+ bs\, 1/2 Cup)\n- Side Salad - Secondary Romaine (2g carbs\, Cup)\n- Grape 
+ Tomatoes (2g carbs\, 1/4 Cup)\n- Potato\, Bakers (21g carbs\, Each)\n- Bro
+ ccoli Florets\, raw (5g carbs\, 1/2 Cup)\nFruit:\n- Tropical Fruit Salad\,
+  Dole (22g carbs\, 1/2  Cup Serving)\n- Grapes\, Green (17g carbs\, 1/2 Cu
+ p)\n- Apples\, fresh (14g carbs\, Whole)\n- Applesauce cup\, Mango Peach (
+ 15g carbs\, 1 Container)\n- Sliced Apples\, package (7g carbs\, 1 Package)
+ \n- Applesauce Cup\, Blue Raspberry (15g carbs\, 1 Container)\nDessert:\n-
+  Pumpkin Pie (45g carbs\, Slice)\n- Whipped Topping (3g carbs\, 2 Tbs.)\n-
+  Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- Cheese Stick\, Marb
+ led (1g carbs\, 1 each)\nDairy and Egg Products:\n- Cheese Blend (2g carbs
+ \, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-18-fa45749c@school-lunch-feed
+DTSTAMP:20261007T045257Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree:\n- Cheese Pizza (27g carbs\, 8 slices)\n- Pepperon
+ i Pizza (33g carbs\, 8 slices)\n- Chicken Sandwich (42g carbs\, Sandwich)\
+ n- Uncrustables\, Large Grape & Peanut Butter (64g carbs\, 1 each)\n- Uncr
+ ustables\, Large Strawberry & Peanut Butter (64g carbs\, 1 each)\n- Ham & 
+ Cheese Sandwich: FTrip (30g carbs\, Sandwich)\n- Strawberry Parfait (106g 
+ carbs\, Each)\n- Chili Con Carne & Beans\, HS (30g carbs\, 3/4 Cup)\n- Cri
+ spy Chicken Salad (39g carbs\, Serving)\n- Spicy Crispy Chicken Salad (33g
+  carbs\, 1 each)\n- Berry Grilled Chicken Salad (32g carbs\, 1 each)\n- Ch
+ ef Salad (12g carbs\, Chef Salad)\nGrain:\n- Garlic Breadsticks (29g carbs
+ \, Breadsticks)\n- Chips\, Lay's Sour Cream and Onion (15g carbs\, 1 packa
+ ge (1 oz))\n- Rolls\, 2oz (28g carbs\, 1 each)\n- Chips\, Lay's BBQ (16g c
+ arbs\, 1 package (1 oz))\n- Chips\, Lay's Regular (15g carbs\, 1 package (
+ 1 oz))\nVegetables:\n- Fries\, Waffle (41g carbs\, 1 cup)\n- Garden Blend 
+ Vegetables (5g carbs\, 1/2  Cup Serving)\n- Baby Carrots (6g carbs\, 1/2 C
+ up Serving)\n- Lettuce\, Shredded (0g carbs\, 1/4  Cup)\n- Dill Pickle Chi
+ ps (0g carbs\, 4 each)\n- Celery (1g carbs\, 1/2 Cup)\n- Potato\, Bakers (
+ 21g carbs\, Each)\n- Baked Beans (32g carbs\, 1/2 Cup)\nFruit:\n- Fruit Cu
+ p\, Harvest Mixed Fruit (19g carbs\, 1 Container)\n- Sliced Apples\, packa
+ ge (7g carbs\, 1 Package)\n- Apples\, fresh (14g carbs\, Whole)\n- Orange\
+ , fresh (13g carbs\, 1 whole)\nDessert:\n- Pumpkin Chocolate Chip Bar (21g
+  carbs\, 1 each)\n- Chocolate Chip Cookie (18g carbs\, 1 each)\nSides:\n- 
+ Cheese Stick\, Marbled (1g carbs\, 1 each)\nDairy and Egg Products:\n- Che
+ ese Blend (2g carbs\, 1 oz)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,57 @@
+name: Update lunch calendars
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendars
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build calendars
+        run: |
+          set -o pipefail
+          python3 lunch_calendar.py | tee build.log
+
+      - name: Check results
+        run: |
+          # The script keeps going when a request fails, which would publish a feed with
+          # missing events. Fail the run instead so the last good files stay live.
+          if grep -q "failed (" build.log; then
+            echo "::error::One or more API requests failed (see 'Build calendars' log)."
+            exit 1
+          fi
+          for f in *.ics; do
+            if ! grep -q "BEGIN:VEVENT" "$f"; then
+              echo "::error::$f has no events; not publishing it."
+              exit 1
+            fi
+          done
+          rm build.log
+
+      - name: Commit changes
+        run: |
+          # DTSTAMP is rewritten on every run, so ignore diffs that touch only that line.
+          if git diff --quiet -I '^DTSTAMP:' -- '*.ics' && [ -z "$(git ls-files --others --exclude-standard -- '*.ics')" ]; then
+            echo "No menu changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*.ics'
+          git commit -m "Update lunch calendars"
+          git push

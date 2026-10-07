@@ -1,0 +1,1251 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//School Lunch Feed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Majestic Elementary Lunch
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lunch-2026-08-24-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree: Hawaiian Haystacks\, Uncrustables Grape & Peanut B
+ utter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustab
+ le Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSide
+ s: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chow Mein Noo
+ dles\, Chips\, Lay's Sour Cream and Onion\nVegetables: Green Peas\, Cucumb
+ er\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Sliced Appl
+ es\, package\nDessert: Ice Cream Cup\, Chocolate\, Ice Cream Cup\, Strawbe
+ rry\, Ice Cream Cup\, Vanilla\, Chocolate Chip Cookie\nDairy and Egg Produ
+ cts: Cheese Blend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-25-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Lunch: Walking Taco
+DESCRIPTION:Main Entree: Walking Taco\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Cin
+ namon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables: Beans\, Bla
+ ck\, Corn\, Whole Kernel\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\,
+  Fresh\, Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Diced Peaches\, Water
+ melon\, fresh\, Banana\, Fresh\, Sliced Apples\, package\nDairy and Egg Pr
+ oducts: Cheese Blend\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Ch
+ ip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-26-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree: Corn Dog\, Uncrustables Grape & Peanut Butter\, Sm
+ all\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Strawbe
+ rry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables: Ta
+ tor Tots\, Baked Beans\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\,
+  Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apple
+ s\, fresh\, Watermelon\, fresh\, Sliced Apples\, package\nSides: Cheese St
+ ick\, Marbled\nGrain: Chips\, Lay's Sour Cream and Onion\nDessert: Chocola
+ te Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-27-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Lunch: Chicken Alfredo
+DESCRIPTION:Main Entree: Chicken Alfredo\, Uncrustables Grape & Peanut Butt
+ er\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable 
+ Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: 
+ Penne Pasta\, Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape Tomatoes
+ \, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\, Blue Raspberry\, Grape
+ s\, Green\, Mandarin Oranges\, Sliced Apples\, package\nSides: Cheese Stic
+ k\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-28-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Main Entree: Chicken Sandwich\, Uncrustables Grape & Peanut But
+ ter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable
+  Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegeta
+ bles: Fries\, Potato Smiles\, Garden Blend Vegetables\, Baby Carrots\, Let
+ tuce\, Shredded\, Dill Pickle Chips\, Celery\, Cucumber\nFruit: Fruit Cup\
+ , Harvest Mixed Fruit\, Sliced Apples\, package\, Grapes\, Green\nDessert:
+  Tuxedo Cookie\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled\nGra
+ in: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-08-31-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree: Mandarin Orange Chicken\, Uncrustable Strawberry &
+  Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, U
+ ncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Sides: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, L
+ ay's Sour Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby
+  Carrots\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Bana
+ na\, Fresh\, Sliced Apples\, package\nDessert: Fortune Cookie\, Chocolate 
+ Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-01-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Lunch: Bacon Cheeseburger
+DESCRIPTION:Main Entree: Bacon Cheeseburger\, Elementary\, Uncrustable Stra
+ wberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, S
+ mall\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich:
+  FTrip\nVegetables: 50/50 Fries\, Elem\, Baked Beans\, Sugar Snap Peas\, L
+ ettuce\, Shredded\, Dill Pickle Chips\, Tomato\, Fresh\, Baby Carrots\, Cu
+ cumber\nFruit: Fruit Cup\, Diced Peaches\, Honeydew Melon\, Strawberries\,
+  fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain: Ch
+ ips\, Lay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-02-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Lunch: French Toast Sticks
+DESCRIPTION:Main Entree: French Toast Sticks\, Uncrustable Strawberry & Pea
+ nut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncru
+ stables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSide
+ s: Egg\, hard boiled\, Pork Sausage Links\, Cheese Stick\, Marbled\nVegeta
+ bles: Hashbrown\, Triangle Patty\, Side Salad - Elem Romaine\, Grape Tomat
+ oes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\, 
+ Sliced Apples\, package\nGrain: Chips\, Lay's Sour Cream and Onion\nDesser
+ t: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-03-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Lunch: Breaded Chicken Drumsticks
+DESCRIPTION:Main Entree: Breaded Chicken Drumsticks\, Uncrustable Strawberr
+ y & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\
+ , Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTri
+ p\nGrain: Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: Ma
+ shed Potatoes\, Corn\, Whole Kernel\, Celery\, Sugar Snap Peas\, Baby Carr
+ ots\, Cucumber\nFruit: Applesauce cup\, Mango Peach\, Orange\, fresh\, Hon
+ eydew Melon\, Sliced Apples\, package\nDessert: Pudding\, Chocolate\, Pudd
+ ing\, Vanilla\, Chocolate Chip Cookie\nSoups\, Sauces\, and Gravies: Gravy
+ \, Chicken\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-04-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, Craisins\, Che
+ rry\, Honeydew Melon\, Sliced Apples\, package\nDessert: Chocolate Chip Co
+ okie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-08-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree: Crisp Taco\, Uncrustables Grape & Peanut Butter\, 
+ Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Rolls
+ \, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: Fries\, Waffle\, 
+ Beans\, Refried\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\, Fresh\, 
+ Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Diced Peaches\, Watermelon\, f
+ resh\, Sliced Apples\, package\nDairy and Egg Products: Cheese Blend\nSide
+ s: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-09-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Lunch: Mini Chicken Corn Dogs
+DESCRIPTION:Main Entree: Mini Chicken Corn Dogs\, Uncrustables Grape & Pean
+ ut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Corn 
+ Dog\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwi
+ ch: FTrip\nSides: Jalapeno & Cheddar Kettle Lays\, Sea Salt & Vinegar Kett
+ le Lays\, Chips\, Ruffles Cheddar & Sour Cream (Baked)\, Cheese Stick\, Ma
+ rbled\nGrain: Chips\, Lay's Regular\, Chips\, Lay's BBQ\, Chips\, Lay's So
+ ur Cream and Onion\nVegetables: Baked Beans\, Side Salad - Elem Romaine\, 
+ Grape Tomatoes\, Sugar Snap Peas\, Baby Carrots\, Cucumber\nFruit: Mandari
+ n Oranges\, Apples\, fresh\, Watermelon\, fresh\, Sliced Apples\, package\
+ nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-10-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree: Cheese Tortellini\, Beef Rosa Sauce\, Uncrustables
+  Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, 
+ Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sand
+ wich: FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onio
+ n\nVegetables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\, Strawberry\, Gra
+ pes\, Green\, Sliced Apples\, package\nDessert: Pudding\, Chocolate\, Pudd
+ ing\, Vanilla\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-11-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Main Entree: Chicken Sandwich\, Spicy Chicken Sandwich\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut But
+ ter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Chees
+ e Sandwich: FTrip\nVegetables: Fries\, Potato Smiles\, Garden Blend Vegeta
+ bles\, Baby Carrots\, Lettuce\, Shredded\, Dill Pickle Chips\, Cucumber\nF
+ ruit: Fruit Cup\, Harvest Mixed Fruit\, Sliced Apples\, package\, Grapes\,
+  Green\nDessert: S'mores Cookie Bar\, Tuxedo Cookie\, Chocolate Chip Cooki
+ e\nSides: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream and Onio
+ n
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-14-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree: Teriyaki Chicken\, Uncrustable Strawberry & Peanut
+  Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrusta
+ bles Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides: 
+ Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, Lay's So
+ ur Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby Carrot
+ s\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Sliced Appl
+ es\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-15-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Lunch: Nacho Fries\, Secondary
+DESCRIPTION:Main Entree: Nacho Fries\, Secondary\, Uncrustable Strawberry &
+  Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, U
+ ncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Grain: Cinnamon Twist\, Chips\, Lay's Sour Cream and Onion\nVegetables: Be
+ ans\, Refried\, Sunshine Carrot Mix\, Sugar Snap Peas\, Baby Carrots\, Cuc
+ umber\nFruit: Fruit Cup\, Diced Peaches\, Honeydew Melon\, Strawberries\, 
+ fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nDessert: C
+ hocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-16-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree: Grilled Cheese Sandwich\, Spicy Grilled Cheese San
+ dwich\, Uncrustables Grape & Peanut Butter\, Small\, Uncrustable Chocolate
+  & Peanut Butter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\
+ , Ham & Cheese Sandwich: FTrip\nSides: Soup\, Tomato\, Cheese Stick\, Marb
+ led\nGrain: Crackers\, Cheezits\, Chips\, Lay's Sour Cream and Onion\nVege
+ tables: Green Peas\, Side Salad - Elem Romaine\, Grape Tomatoes\, Baby Car
+ rots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\, Honeydew Melon
+ \, Sliced Apples\, package\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-17-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Lunch: Chicken Nuggets
+DESCRIPTION:Main Entree: Chicken Nuggets\, Mac and Cheese\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, 
+ Small\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich
+ : FTrip\nVegetables: Corn\, Whole Kernel\, Celery\, Baby Carrots\, Cucumbe
+ r\nFruit: Applesauce Cup\, Blue Raspberry\, Orange\, fresh\, Honeydew Melo
+ n\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain: Chips\,
+  Lay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-18-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, Craisins\, Ras
+ pberry lemonade\, Apples\, fresh\, Sliced Apples\, package\nDessert: Tuxed
+ o Cookie\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-21-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Lunch: Chicken Egg Rolls
+DESCRIPTION:Main Entree: Chicken Egg Rolls\, Uncrustables Grape & Peanut Bu
+ tter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustabl
+ e Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides
+ : Ham Fried Rice\, Cheese Stick\, Marbled\nVegetables: Broccoli Normandy\,
+  Cucumber\, Celery\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fre
+ sh\, Fruit Cup\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: I
+ ce Cream Bar\, Vanilla Crunch\, Ice Cream Bar\, Orange Dream\, Chocolate C
+ hip Cookie\nGrain: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-22-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Lunch: Super Nachos
+DESCRIPTION:Main Entree: Super Nachos\, Elementary\, Uncrustables Grape & P
+ eanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Un
+ crustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTri
+ p\nGrain: Cinnamon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables
+ : Beans\, Black\, Corn\, Whole Kernel\, Sugar Snap Peas\, Baby Carrots\, C
+ ucumber\nFruit: Fruit Cup\, Diced Peaches\, Watermelon\, fresh\, Sliced Ap
+ ples\, package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Coo
+ kie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-23-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree: Hot Dog Wrap\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables
+ : Tator Tots\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\, Grape Tom
+ atoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\
+ , Watermelon\, fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marb
+ led\nGrain: Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate Chip Co
+ okie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-24-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Lunch: Sloppy Joe Sandwich
+DESCRIPTION:Main Entree: Sloppy Joe Sandwich\, Uncrustables Grape & Peanut 
+ Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrusta
+ ble Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGra
+ in: Baked Cheetos\, Cheetos Fantastix!\, Chips\, Lay's Regular\, Chips\, L
+ ay's Sour Cream and Onion\nVegetables: Green Beans\, Celery\, Side Salad -
+  Elem Romaine\, Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Applesauc
+ e cup\, Mango Peach\, Grapes\, Green\, Mandarin Oranges\, Sliced Apples\, 
+ package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-25-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Lunch: Chicken Tenders
+DESCRIPTION:Main Entree: Chicken Tenders\, Uncrustables Grape & Peanut Butt
+ er\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable 
+ Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: 
+ Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: 50/50 Fries\
+ , Elem\, Garden Blend Vegetables\, Baby Carrots\, Cucumber\nFruit: Fruit C
+ up\, Harvest Mixed Fruit\, Sliced Apples\, package\, Grapes\, Green\nDesse
+ rt: Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-28-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Lunch: Sweet & Sour Chicken
+DESCRIPTION:Main Entree: Sweet & Sour Chicken\, Uncrustable Strawberry & Pe
+ anut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncr
+ ustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSid
+ es: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, Lay'
+ s Sour Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby Ca
+ rrots\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Sliced 
+ Apples\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-29-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Lunch: Triple Decker Hoagie
+DESCRIPTION:Main Entree: Triple Decker Hoagie\, Elementary\, Uncrustable St
+ rawberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\,
+  Small\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwic
+ h: FTrip\nGrain: Chips\, Lay's BBQ\, Chips\, Lay's Regular\, Chips\, Lay's
+  Sour Cream and Onion\nVegetables: Sunshine Carrot Mix\, Sugar Snap Peas\,
+  Lettuce\, Shredded\, Dill Pickle Chips\, Baby Carrots\, Cucumber\nFruit: 
+ Fruit Cup\, Diced Peaches\, Honeydew Melon\, Sliced Apples\, package\nDess
+ ert: Pudding\, Chocolate\, Pudding\, Vanilla\, Chocolate Chip Cookie\nSide
+ s: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-09-30-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Lunch: Breakfast Sandwich
+DESCRIPTION:Main Entree: Breakfast Sandwich\, Uncrustable Strawberry & Pean
+ ut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVeget
+ ables: Hashbrown\, Triangle Patty\, Green Peas\, Side Salad - Elem Romaine
+ \, Grape Tomatoes\, Green Beans\, Baby Carrots\, Cucumber\nFruit: Mandarin
+  Oranges\, Apples\, fresh\, Sliced Apples\, package\, Honeydew Melon\nSide
+ s: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream and Onion\nDess
+ ert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-01-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Lunch: Popcorn Chicken
+DESCRIPTION:Main Entree: Popcorn Chicken\, Uncrustable Strawberry & Peanut 
+ Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Chicken S
+ andwich\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwi
+ ch: FTrip\nGrain: Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegeta
+ bles: Fries\, Waffle\, Baked Beans\, Celery\, Cucumber\, Sugar Snap Peas\,
+  Dill Pickle Chips\, Lettuce\, Shredded\, Baby Carrots\nFruit: Applesauce 
+ Cup\, Strawberry\, Orange\, fresh\, Sliced Apples\, package\nSides: Cheese
+  Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-02-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Green Peas\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, C
+ raisins\, Strawberry\, Orange\, fresh\, Apples\, fresh\, Sliced Apples\, p
+ ackage\nDessert: S'mores Cookie Bar\, Chocolate Chip Cookie\nSides: Cheese
+  Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-05-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree: Hawaiian Haystacks\, Uncrustables Grape & Peanut B
+ utter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustab
+ le Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSide
+ s: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chow Mein Noo
+ dles\, Chips\, Lay's Sour Cream and Onion\nVegetables: Green Peas\, Cucumb
+ er\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Sliced Appl
+ es\, package\nDessert: Ice Cream Cup\, Chocolate\, Ice Cream Cup\, Strawbe
+ rry\, Ice Cream Cup\, Vanilla\, Chocolate Chip Cookie\nDairy and Egg Produ
+ cts: Cheese Blend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-06-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Lunch: Walking Taco
+DESCRIPTION:Main Entree: Walking Taco\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Cin
+ namon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables: Beans\, Bla
+ ck\, Corn\, Whole Kernel\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\,
+  Fresh\, Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Dice
+ d Peaches\, Watermelon\, fresh\, Banana\, Fresh\, Sliced Apples\, package\
+ nDairy and Egg Products: Cheese Blend\nSides: Cheese Stick\, Marbled\nDess
+ ert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-07-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree: Corn Dog\, Uncrustables Grape & Peanut Butter\, Sm
+ all\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Strawbe
+ rry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables: Ta
+ tor Tots\, Baked Beans\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\,
+  Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apple
+ s\, fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain:
+  Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-08-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Lunch: Chicken Alfredo
+DESCRIPTION:Main Entree: Chicken Alfredo\, Uncrustables Grape & Peanut Butt
+ er\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable 
+ Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: 
+ Penne Pasta\, Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape Tomatoes
+ \, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\, Blue Raspberry\, Grape
+ s\, Green\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nDesser
+ t: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-09-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Main Entree: Chicken Sandwich\, Spicy Chicken Sandwich\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut But
+ ter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Chees
+ e Sandwich: FTrip\nVegetables: Fries\, Potato Smiles\, Garden Blend Vegeta
+ bles\, Baby Carrots\, Lettuce\, Shredded\, Dill Pickle Chips\, Cucumber\nF
+ ruit: Fruit Cup\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: 
+ Tuxedo Cookie\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled\nGrai
+ n: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-12-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree: Mandarin Orange Chicken\, Uncrustable Strawberry &
+  Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, U
+ ncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Sides: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, L
+ ay's Sour Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby
+  Carrots\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Slic
+ ed Apples\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-13-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Lunch: Bacon Cheeseburger
+DESCRIPTION:Main Entree: Bacon Cheeseburger\, Elementary\, Uncrustable Stra
+ wberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, S
+ mall\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich:
+  FTrip\nVegetables: 50/50 Fries\, Elem\, Baked Beans\, Sugar Snap Peas\, L
+ ettuce\, Shredded\, Dill Pickle Chips\, Tomato\, Fresh\, Baby Carrots\, Cu
+ cumber\nFruit: Fruit Cup\, Diced Peaches\, Honeydew Melon\, Sliced Apples\
+ , package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream 
+ and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-14-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Lunch: French Toast Sticks
+DESCRIPTION:Main Entree: French Toast Sticks\, Uncrustable Strawberry & Pea
+ nut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncru
+ stables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSide
+ s: Egg\, hard boiled\, Pork Sausage Links\, Cheese Stick\, Marbled\nVegeta
+ bles: Hashbrown\, Triangle Patty\, Side Salad - Elem Romaine\, Grape Tomat
+ oes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\, 
+ Sliced Apples\, package\nGrain: Chips\, Lay's Sour Cream and Onion\nDesser
+ t: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-19-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Lunch: Fiesta Crunch Bowl
+DESCRIPTION:Main Entree: Fiesta Crunch Bowl\, Elementary\, Uncrustables Gra
+ pe & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Smal
+ l\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich
+ : FTrip\nGrain: Chips\, Tostitos Scoops\, Chips\, Lay's Sour Cream and Oni
+ on\nVegetables: Beans\, Black\, Corn\, Whole Kernel\, Baby Carrots\, Cucum
+ ber\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Sliced Apples\, package\n
+ Dessert: Ice Cream Cup\, Chocolate\, Ice Cream Cup\, Strawberry\, Ice Crea
+ m Cup\, Vanilla\, Chocolate Chip Cookie\nDairy and Egg Products: Cheese Bl
+ end\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-20-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree: Crisp Taco\, Uncrustables Grape & Peanut Butter\, 
+ Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Rolls
+ \, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: Fries\, Waffle\, 
+ Beans\, Refried\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\, Fresh\, 
+ Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Diced Peaches\, Watermelon\, f
+ resh\, Sliced Apples\, package\nDairy and Egg Products: Cheese Blend\nSide
+ s: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-21-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lunch: Mini Chicken Corn Dogs
+DESCRIPTION:Main Entree: Mini Chicken Corn Dogs\, Uncrustables Grape & Pean
+ ut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncru
+ stable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Sides: Jalapeno & Cheddar Kettle Lays\, Sea Salt & Vinegar Kettle Lays\, C
+ hips\, Ruffles Cheddar & Sour Cream (Baked)\, Cheese Stick\, Marbled\nVege
+ tables: Baked Beans\, Side Salad - Elem Romaine\, Grape Tomatoes\, Baby Ca
+ rrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\, Sliced Apples
+ \, package\nGrain: Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate 
+ Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-22-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree: Cheese Tortellini\, Beef Rosa Sauce\, Uncrustables
+  Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, 
+ Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sand
+ wich: FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onio
+ n\nVegetables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\, Strawberry\, Gra
+ pes\, Green\, Sliced Apples\, package\nDessert: Pudding\, Chocolate\, Pudd
+ ing\, Vanilla\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-26-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree: Teriyaki Chicken\, Uncrustable Strawberry & Peanut
+  Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrusta
+ bles Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides: 
+ Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, Lay's So
+ ur Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby Carrot
+ s\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Sliced Appl
+ es\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-27-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Lunch: Nacho Fries
+DESCRIPTION:Main Entree: Nacho Fries\, Elementary\, Uncrustable Strawberry 
+ & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, 
+ Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\
+ nGrain: Cinnamon Twist\, Chips\, Lay's Sour Cream and Onion\nVegetables: B
+ eans\, Refried\, Sunshine Carrot Mix\, Sugar Snap Peas\, Baby Carrots\, Cu
+ cumber\nFruit: Fruit Cup\, Diced Peaches\, Honeydew Melon\, Sliced Apples\
+ , package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-28-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree: Grilled Cheese Sandwich\, Spicy Grilled Cheese San
+ dwich\, Uncrustables Grape & Peanut Butter\, Small\, Uncrustable Chocolate
+  & Peanut Butter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\
+ , Ham & Cheese Sandwich: FTrip\nSides: Soup\, Tomato\, Cheese Stick\, Marb
+ led\nGrain: Crackers\, Cheezits\, Crackers\, Spicy Buffalo Cheezit's\, Chi
+ ps\, Lay's Sour Cream and Onion\nVegetables: Green Peas\, Side Salad - Ele
+ m Romaine\, Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oran
+ ges\, Apples\, fresh\, Sliced Apples\, package\nDessert: Chocolate Chip Co
+ okie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-29-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Lunch: Chicken Nuggets
+DESCRIPTION:Main Entree: Chicken Nuggets\, Mac and Cheese\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, 
+ Small\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich
+ : FTrip\nVegetables: Corn\, Whole Kernel\, Celery\, Baby Carrots\, Cucumbe
+ r\nFruit: Applesauce Cup\, Blue Raspberry\, Orange\, fresh\, Sliced Apples
+ \, package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream
+  and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-10-30-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, Craisins\, Ras
+ pberry lemonade\, Sliced Apples\, package\nDessert: Tuxedo Cookie\, Chocol
+ ate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-02-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Lunch: Chicken Egg Rolls
+DESCRIPTION:Main Entree: Chicken Egg Rolls\, Uncrustables Grape & Peanut Bu
+ tter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustabl
+ e Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides
+ : Ham Fried Rice\, Cheese Stick\, Marbled\nVegetables: Broccoli Normandy\,
+  Cucumber\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Slic
+ ed Apples\, package\nDessert: Ice Cream Bar\, Vanilla Crunch\, Ice Cream B
+ ar\, Orange Dream\, Chocolate Chip Cookie\nGrain: Chips\, Lay's Sour Cream
+  and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-03-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Lunch: Super Nachos
+DESCRIPTION:Main Entree: Super Nachos\, Elementary\, Uncrustables Grape & P
+ eanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Un
+ crustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTri
+ p\nGrain: Cinnamon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables
+ : Beans\, Black\, Corn\, Whole Kernel\, Sugar Snap Peas\, Baby Carrots\, C
+ ucumber\nFruit: Fruit Cup\, Diced Peaches\, Kiwi\, Fresh\, Sliced Apples\,
+  package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-04-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree: Hot Dog Wrap\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables
+ : Tator Tots\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\, Grape Tom
+ atoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\
+ , Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, L
+ ay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-05-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Lunch: Sloppy Joe Sandwich
+DESCRIPTION:Main Entree: Sloppy Joe Sandwich\, Uncrustables Grape & Peanut 
+ Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrusta
+ ble Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGra
+ in: Baked Cheetos\, Cheetos Fantastix!\, Chips\, Lay's Sour Cream and Onio
+ n\nVegetables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Baby Carrots\, Cucumber\nFruit: Applesauce cup\, Mango Peach\, Gr
+ apes\, Green\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nDes
+ sert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-06-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Lunch: Chicken Tenders
+DESCRIPTION:Main Entree: Chicken Tenders\, Uncrustables Grape & Peanut Butt
+ er\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable 
+ Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: 
+ Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: 50/50 Fries\
+ , Elem\, Garden Blend Vegetables\, Baby Carrots\, Cucumber\nFruit: Fruit C
+ up\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: Pumpkin Choco
+ late Chip Bar\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-09-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Lunch: Sweet & Sour Chicken
+DESCRIPTION:Main Entree: Sweet & Sour Chicken\, Uncrustable Strawberry & Pe
+ anut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncr
+ ustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSid
+ es: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, Lay'
+ s Sour Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby Ca
+ rrots\nFruit: Tropical Fruit Salad\, Dole\, Strawberries\, fresh\, Sliced 
+ Apples\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-10-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Lunch: Triple Decker Hoagie
+DESCRIPTION:Main Entree: Triple Decker Hoagie\, Elementary\, Uncrustable St
+ rawberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\,
+  Small\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwic
+ h: FTrip\nGrain: Chips\, Lay's BBQ\, Chips\, Lay's Regular\, Chips\, Lay's
+  Sour Cream and Onion\nVegetables: Sunshine Carrot Mix\, Sugar Snap Peas\,
+  Lettuce\, Shredded\, Dill Pickle Chips\, Baby Carrots\, Cucumber\nFruit: 
+ Fruit Cup\, Diced Peaches\, Honeydew Melon\, Sliced Apples\, package\nDess
+ ert: Pudding\, Chocolate\, Pudding\, Vanilla\, Chocolate Chip Cookie\nSide
+ s: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-11-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Lunch: Breakfast Sandwich
+DESCRIPTION:Main Entree: Breakfast Sandwich\, Uncrustable Strawberry & Pean
+ ut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVeget
+ ables: Hashbrown\, Triangle Patty\, Green Peas\, Side Salad - Elem Romaine
+ \, Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, App
+ les\, fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrai
+ n: Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-12-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Lunch: Popcorn Chicken
+DESCRIPTION:Main Entree: Popcorn Chicken\, Uncrustable Strawberry & Peanut 
+ Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrustab
+ les Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: R
+ olls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: Fries\, Waffl
+ e\, Baked Beans\, Celery\, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\
+ , Strawberry\, Orange\, fresh\, Sliced Apples\, package\nSides: Cheese Sti
+ ck\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-13-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, Craisins\, Str
+ awberry\, Sliced Apples\, package\nDessert: S'mores Cookie Bar\, Chocolate
+  Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-16-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Lunch: Hawaiian Haystacks
+DESCRIPTION:Main Entree: Hawaiian Haystacks\, Uncrustables Grape & Peanut B
+ utter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustab
+ le Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSide
+ s: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chow Mein Noo
+ dles\, Chips\, Lay's Sour Cream and Onion\nVegetables: Green Peas\, Cucumb
+ er\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Sliced Appl
+ es\, package\nDessert: Ice Cream Cup\, Chocolate\, Ice Cream Cup\, Vanilla
+ \, Chocolate Chip Cookie\nDairy and Egg Products: Cheese Blend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-17-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Lunch: Walking Taco
+DESCRIPTION:Main Entree: Walking Taco\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Cin
+ namon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables: Beans\, Bla
+ ck\, Corn\, Whole Kernel\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\,
+  Fresh\, Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Diced Peaches\, Pear\
+ , Fresh Whole\, Sliced Apples\, package\nDairy and Egg Products: Cheese Bl
+ end\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-18-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Lunch: Corn Dog
+DESCRIPTION:Main Entree: Corn Dog\, Uncrustables Grape & Peanut Butter\, Sm
+ all\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Strawbe
+ rry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables: Ta
+ tor Tots\, Baked Beans\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\,
+  Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apple
+ s\, fresh\, Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain:
+  Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-19-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Lunch: Turkey Breast Roast\, Sliced
+DESCRIPTION:Main Entree: Turkey Breast Roast\, Sliced\, Uncrustable Chocola
+ te & Peanut Butter\, Small\, Uncrustable Strawberry & Peanut Butter\, Smal
+ l\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FT
+ rip\nGrain: Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: 
+ Mashed Potatoes\, Green Beans\, Celery\, Baby Carrots\, Cucumber\nFruit: A
+ pplesauce Cup\, Blue Raspberry\, Grapes\, Green\, Sliced Apples\, package\
+ nDessert: Pumpkin Pie\, Whipped Topping\, Chocolate Chip Cookie\nSoups\, S
+ auces\, and Gravies: Gravy\, Chicken\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-20-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Main Entree: Chicken Sandwich\, Spicy Chicken Sandwich\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut But
+ ter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Chees
+ e Sandwich: FTrip\nVegetables: Fries\, Potato Smiles\, Garden Blend Vegeta
+ bles\, Baby Carrots\, Lettuce\, Shredded\, Dill Pickle Chips\, Cucumber\nF
+ ruit: Fruit Cup\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: 
+ Tuxedo Cookie\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled\nGrai
+ n: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-23-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lunch: Mandarin Orange Chicken
+DESCRIPTION:Main Entree: Mandarin Orange Chicken\, Uncrustable Strawberry &
+  Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, U
+ ncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Sides: Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, L
+ ay's Sour Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby
+  Carrots\nFruit: Tropical Fruit Salad\, Dole\, Banana\, Fresh\, Sliced App
+ les\, package\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-24-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Lunch: Bacon Cheeseburger
+DESCRIPTION:Main Entree: Bacon Cheeseburger\, Elementary\, Uncrustable Stra
+ wberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, S
+ mall\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich:
+  FTrip\nVegetables: 50/50 Fries\, Elem\, Baked Beans\, Sugar Snap Peas\, L
+ ettuce\, Shredded\, Dill Pickle Chips\, Tomato\, Fresh\, Baby Carrots\, Cu
+ cumber\nFruit: Fruit Cup\, Diced Peaches\, Plum\, Fresh\, Sliced Apples\, 
+ package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream an
+ d Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-11-30-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Lunch: Fiesta Crunch Bowl
+DESCRIPTION:Main Entree: Fiesta Crunch Bowl\, Elementary\, Uncrustables Gra
+ pe & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Smal
+ l\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich
+ : FTrip\nSides: Brown Rice\, Cheese Stick\, Marbled\nGrain: Chips\, Tostit
+ os Scoops\, Chips\, Lay's Sour Cream and Onion\nVegetables: Beans\, Black\
+ , Corn\, Whole Kernel\, Baby Carrots\, Cucumber\nFruit: Pineapple Tidbits\
+ , Banana\, Fresh\, Sliced Apples\, package\nDessert: Ice Cream Cup\, Choco
+ late\, Ice Cream Cup\, Vanilla\, Chocolate Chip Cookie\nDairy and Egg Prod
+ ucts: Cheese Blend
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-01-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Lunch: Crisp Taco
+DESCRIPTION:Main Entree: Crisp Taco\, Uncrustables Grape & Peanut Butter\, 
+ Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: Rolls
+ \, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: Fries\, Waffle\, 
+ Beans\, Refried\, Sugar Snap Peas\, Lettuce\, Shredded\, Tomato\, Fresh\, 
+ Baby Carrots\, Cucumber\nFruit: Fruit Cup\, Diced Peaches\, Kiwi\, Fresh\,
+  Sliced Apples\, package\nDairy and Egg Products: Cheese Blend\nSides: Che
+ ese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-02-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Lunch: Mini Chicken Corn Dogs
+DESCRIPTION:Main Entree: Mini Chicken Corn Dogs\, Uncrustables Grape & Pean
+ ut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncru
+ stable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\n
+ Sides: Jalapeno & Cheddar Kettle Lays\, Sea Salt & Vinegar Kettle Lays\, C
+ hips\, Ruffles Cheddar & Sour Cream (Baked)\, Cheese Stick\, Marbled\nVege
+ tables: Baked Beans\, Side Salad - Elem Romaine\, Grape Tomatoes\, Baby Ca
+ rrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\, Sliced Apples
+ \, package\nGrain: Chips\, Lay's Sour Cream and Onion\nDessert: Chocolate 
+ Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-03-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Lunch: Cheese Tortellini
+DESCRIPTION:Main Entree: Cheese Tortellini\, Beef Rosa Sauce\, Uncrustables
+  Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, 
+ Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sand
+ wich: FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onio
+ n\nVegetables: Green Beans\, Celery\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Baby Carrots\, Cucumber\nFruit: Applesauce Cup\, Strawberry\, Gra
+ pes\, Green\, Sliced Apples\, package\nDessert: Pudding\, Chocolate\, Pudd
+ ing\, Vanilla\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-04-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Lunch: Chicken Sandwich
+DESCRIPTION:Main Entree: Chicken Sandwich\, Spicy Chicken Sandwich\, Uncrus
+ tables Grape & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut But
+ ter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Chees
+ e Sandwich: FTrip\nVegetables: Fries\, Potato Smiles\, Garden Blend Vegeta
+ bles\, Baby Carrots\, Lettuce\, Shredded\, Dill Pickle Chips\, Cucumber\nF
+ ruit: Fruit Cup\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: 
+ S'mores Cookie Bar\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled\
+ nGrain: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-07-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Lunch: Teriyaki Chicken
+DESCRIPTION:Main Entree: Teriyaki Chicken\, Uncrustable Strawberry & Peanut
+  Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, Uncrusta
+ bles Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides: 
+ Brown Rice\, Cheese Stick\, Marbled\nGrain: Rolls\, 2oz\, Chips\, Lay's So
+ ur Cream and Onion\nVegetables: Broccoli Normandy\, Cucumber\, Baby Carrot
+ s\nFruit: Tropical Fruit Salad\, Dole\, Banana\, Fresh\, Sliced Apples\, p
+ ackage\nDessert: Fortune Cookie\, Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-08-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Lunch: Nacho Fries
+DESCRIPTION:Main Entree: Nacho Fries\, Elementary\, Uncrustable Strawberry 
+ & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Small\, 
+ Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\
+ nGrain: Cinnamon Twist\, Chips\, Lay's Sour Cream and Onion\nVegetables: B
+ eans\, Refried\, Sunshine Carrot Mix\, Sugar Snap Peas\, Baby Carrots\, Cu
+ cumber\nFruit: Fruit Cup\, Diced Peaches\, Plum\, Fresh\, Sliced Apples\, 
+ package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-09-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Lunch: Grilled Cheese Sandwich
+DESCRIPTION:Main Entree: Grilled Cheese Sandwich\, Spicy Grilled Cheese San
+ dwich\, Uncrustables Grape & Peanut Butter\, Small\, Uncrustable Chocolate
+  & Peanut Butter\, Small\, Uncrustable Strawberry & Peanut Butter\, Small\
+ , Ham & Cheese Sandwich: FTrip\nSides: Soup\, Tomato\, Cheese Stick\, Marb
+ led\nGrain: Crackers\, Cheezits\, Crackers\, Spicy Buffalo Cheezit's\, Chi
+ ps\, Lay's Sour Cream and Onion\nVegetables: Green Peas\, Side Salad - Ele
+ m Romaine\, Grape Tomatoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oran
+ ges\, Apples\, fresh\, Sliced Apples\, package\nDessert: Chocolate Chip Co
+ okie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-10-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Lunch: Chicken Nuggets
+DESCRIPTION:Main Entree: Chicken Nuggets\, Mac and Cheese\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, 
+ Small\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich
+ : FTrip\nVegetables: Corn\, Whole Kernel\, Celery\, Baby Carrots\, Cucumbe
+ r\nFruit: Applesauce Cup\, Blue Raspberry\, Orange\, fresh\, Sliced Apples
+ \, package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, Lay's Sour Cream
+  and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-11-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Lunch: Cheese Pizza
+DESCRIPTION:Main Entree: Cheese Pizza\, Pepperoni Pizza\, Uncrustable Straw
+ berry & Peanut Butter\, Small\, Uncrustable Chocolate & Peanut Butter\, Sm
+ all\, Uncrustables Grape & Peanut Butter\, Small\, Ham & Cheese Sandwich: 
+ FTrip\nGrain: Garlic Breadsticks\, Chips\, Lay's Sour Cream and Onion\nVeg
+ etables: Green Beans\, Baby Carrots\, Side Salad - Elem Romaine\, Grape To
+ matoes\, Cucumber\nFruit: Fruit Cup\, Harvest Mixed Fruit\, Craisins\, Ras
+ pberry lemonade\, Sliced Apples\, package\nDessert: Tuxedo Cookie\, Chocol
+ ate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-14-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Lunch: Chicken Egg Rolls
+DESCRIPTION:Main Entree: Chicken Egg Rolls\, Uncrustables Grape & Peanut Bu
+ tter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustabl
+ e Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nSides
+ : Ham Fried Rice\, Cheese Stick\, Marbled\nVegetables: Broccoli Normandy\,
+  Cucumber\, Baby Carrots\nFruit: Pineapple Tidbits\, Banana\, Fresh\, Slic
+ ed Apples\, package\nDessert: Ice Cream Bar\, Vanilla Crunch\, Chocolate C
+ hip Cookie\nGrain: Chips\, Lay's Sour Cream and Onion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-15-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Lunch: Super Nachos
+DESCRIPTION:Main Entree: Super Nachos\, Elementary\, Uncrustables Grape & P
+ eanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Un
+ crustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTri
+ p\nGrain: Cinnamon Churro\, Chips\, Lay's Sour Cream and Onion\nVegetables
+ : Beans\, Black\, Corn\, Whole Kernel\, Sugar Snap Peas\, Baby Carrots\, C
+ ucumber\nFruit: Fruit Cup\, Diced Peaches\, Kiwi\, Fresh\, Sliced Apples\,
+  package\nSides: Cheese Stick\, Marbled\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-16-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Lunch: Hot Dog Wrap
+DESCRIPTION:Main Entree: Hot Dog Wrap\, Uncrustables Grape & Peanut Butter\
+ , Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable Str
+ awberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nVegetables
+ : Tator Tots\, Sunshine Carrot Mix\, Side Salad - Elem Romaine\, Grape Tom
+ atoes\, Baby Carrots\, Cucumber\nFruit: Mandarin Oranges\, Apples\, fresh\
+ , Sliced Apples\, package\nSides: Cheese Stick\, Marbled\nGrain: Chips\, L
+ ay's Sour Cream and Onion\nDessert: Chocolate Chip Cookie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-17-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Lunch: Turkey Breast Roast\, Sliced
+DESCRIPTION:Main Entree: Turkey Breast Roast\, Sliced\, Uncrustables Grape 
+ & Peanut Butter\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\,
+  Uncrustable Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: F
+ Trip\nGrain: Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables:
+  Mashed Potatoes\, Green Beans\, Celery\, Side Salad - Elem Romaine\, Grap
+ e Tomatoes\, Baby Carrots\, Cucumber\nFruit: Applesauce cup\, Mango Peach\
+ , Grapes\, Green\, Sliced Apples\, package\nDessert: Pumpkin Pie\, Whipped
+  Topping\, Chocolate Chip Cookie\nSoups\, Sauces\, and Gravies: Gravy\, Ch
+ icken\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lunch-2026-12-18-4a625646@school-lunch-feed
+DTSTAMP:20261007T045250Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Lunch: Chicken Tenders
+DESCRIPTION:Main Entree: Chicken Tenders\, Uncrustables Grape & Peanut Butt
+ er\, Small\, Uncrustables Raspberry & Peanut Butter\, Small\, Uncrustable 
+ Strawberry & Peanut Butter\, Small\, Ham & Cheese Sandwich: FTrip\nGrain: 
+ Rolls\, 2oz\, Chips\, Lay's Sour Cream and Onion\nVegetables: 50/50 Fries\
+ , Elem\, Garden Blend Vegetables\, Baby Carrots\, Cucumber\nFruit: Fruit C
+ up\, Harvest Mixed Fruit\, Sliced Apples\, package\nDessert: Pumpkin Choco
+ late Chip Bar\, Chocolate Chip Cookie\nSides: Cheese Stick\, Marbled
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
