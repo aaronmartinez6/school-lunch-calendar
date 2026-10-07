@@ -1,8 +1,8 @@
 name: Update lunch calendars
 
+# Manual only: LINQ Connect returns 403 to GitHub-hosted runners, so the feeds are refreshed
+# from an iPhone instead (see README). Kept for a retry if that ever changes.
 on:
-  schedule:
-    - cron: "0 11 * * *"
   workflow_dispatch:
 
 permissions:
